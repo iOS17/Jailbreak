@@ -123,3 +123,26 @@ While jailbreaking offers numerous benefits, there are also downsides to conside
 ## Conclusion:
 Exploring the world of iOS 17 jailbreak provides a unique and exciting experience for Apple device users. Understanding the benefits, status, possibilities, preparation steps, safety measures, and best practices is crucial to ensure a successful and secure jailbreak. While the future of iOS 17 jailbreak remains uncertain, the creativity and determination of the jailbreak community continue to shape the mobile industry and inspire Apple to push the boundaries of their operating system.
 
+iOS 17 will be available on September 18th for these devices:
+
+- iPhone 14
+- iPhone 14 Plus
+- iPhone 14 Pro 
+- iPhone 14 Pro Max
+- iPhone 13
+- iPhone 13 mini
+- iPhone 13 Pro
+- iPhone 13 Pro Max
+- iPhone 12 
+- iPhone 12 mini
+- iPhone 12 Pro
+- iPhone 12 Pro Max
+- iPhone 11
+- iPhone 11 Pro
+- iPhone 11 Pro Max
+- iPhone XS
+- iPhone XS Max
+- iPhone XR 
+- iPhone SE (2nd gen or later)
+
+
