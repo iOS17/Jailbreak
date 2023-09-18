@@ -8,6 +8,13 @@ Exploring iOS 17 Jailbreak: Benefits, Status, Possibilities, and Future Impact
 ## Introduction:
 In the world of Apple's operating systems, iOS 17 has captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 devices. This comprehensive guide delves into the realm of iOS 17 jailbreak, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, future prospects, and FAQs. Let's embark on this exciting journey!
 
+## iOS 17 supported devices!
+
+The iPhone 8 and iPhone X have been discontinued
+
+![Jailbreak IOS 17 and its beta  supported device list Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/iOS17/Jailbreak/blob/main/IMG_266E30344626-1.jpeg)
+
+
 ## I. Benefits of Jailbreaking Your iPhone/iPad in iOS 17:
 Jailbreaking your iOS 17 device opens up a whole new world of possibilities. Here are some noteworthy benefits:
 
