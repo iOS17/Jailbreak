@@ -112,7 +112,7 @@ Yes, you can still use the App Store after jailbreaking. Jailbreaking does not r
 ### Will jailbreaking void my warranty?
 Jailbreaking your device typically voids the warranty provided by Apple. If you encounter any hardware or software issues, Apple may refuse to provide support or repair services for a jailbroken device. However, you can generally restore your device to its original, non-jailbroken state to reinstate the warranty.
 
-### Can I unjailbreak my device?
+### Can I un-jailbreak my device?
 Yes, it is possible to unjailbreak your device by restoring it to its original factory settings through iTunes or Finder. This process removes the jailbreak and any tweaks or modifications you have installed, returning your device to its stock iOS version.
 
 ### Are there any risks associated with jailbreaking?
@@ -128,9 +128,9 @@ Updating a jailbroken device requires caution. Generally, updating your device t
 While jailbreaking offers numerous benefits, there are also downsides to consider. These include potential security risks, stability issues caused by incompatible tweaks, decreased battery life, and the possibility of voiding your warranty. It's important to weigh these factors against the desired advantages before deciding to jailbreak your device.
 
 ## Conclusion:
-Exploring the world of iOS 17 jailbreak provides a unique and exciting experience for Apple device users. Understanding the benefits, status, possibilities, preparation steps, safety measures, and best practices is crucial to ensure a successful and secure jailbreak. While the future of iOS 17 jailbreak remains uncertain, the creativity and determination of the jailbreak community continue to shape the mobile industry and inspire Apple to push the boundaries of their operating system.
+Exploring the world of iOS 17 jailbreak provides a unique and exciting experience for Apple device users. Understanding the benefits, status, possibilities, preparation steps, safety measures, and best practices is crucial to ensure a successful and secure jailbreak. While the future of iOS 17 jailbreak remains uncertain, the creativity and determination of the jailbreak community continue to shape the mobile industry and inspire Apple to push the boundaries of its operating system.
 
-iOS 17 will be available on September 18th for these devices:
+iOS 17 is available on September 18th 2023 for these devices:
 
 - iPhone 14
 - iPhone 14 Plus
