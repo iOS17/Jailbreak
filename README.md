@@ -1,3 +1,14 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-357LMQJDWJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-357LMQJDWJ');
+</script>
+
+
 # iOS 17 - 17.1 beta 3 Jailbreak Tools, Status & Solutions
 
 Exploring iOS 17 - 17.1 beta 3 Jailbreak: Benefits, Status, Possibilities, and Future Impact
