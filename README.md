@@ -22,6 +22,27 @@ The iPhone 8 and iPhone X have been discontinued
 
 ![Jailbreak IOS 17 and its beta  supported device list Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/iOS17/Jailbreak/blob/main/IMG_266E30344626-1.jpeg)
 
+# Complete Guide to Jailbreak iOS 17 using Palera1n in 2023
+
+Looking to jailbreak iOS 17 in 2023? Follow this step-by-step guide using the Palera1n tool. Avoid fake methods and achieve full access by following our recommended rootful guide.
+
+To jailbreak your iOS 17 device, you'll need to utilize the Palera1n tool or any other reliable jailbreak tool derived from its source code. Currently, there are no other viable solutions for jailbreaking iOS 17. Be cautious of misleading information on other platforms, as any claims about jailbreaking iOS 17 through other means are false and non-existent.
+
+For a seamless process, Palera1n initially installs a rootless environment. However, if you desire complete access, you can refer to the Palera1n Rootful guide for comprehensive instructions on how to attain this.
+
+## Palera1n Rootful Guide
+
+1. [Download the Palera1n jailbreak tool](https://github.com/palera1n/palera1n/releases) designed specifically for iOS 17. [Palera1n Complete Guide](https://zeejb.com/palera1n-jailbreak/)
+2. Save the downloaded file to your Desktop for quick access.
+3. Open the terminal application and execute the prescribed commands.
+4. Double-click on the palera1n-macos-universal application.
+5. Access  → System Preferences → Privacy & Security.
+6. In the Security section, permit the palera1n-macos-universal application by selecting "Allow anyway."
+7. Open the palera1n-macos-universal app within the terminal.
+8. Enter DFU mode​​​​​​​ as instructed on your screen.
+9. Carefully follow the provided on-screen instructions.
+10. Access the Home Screen and install packages using the Palera1n Loader.
+
 
 ## I. Benefits of Jailbreaking Your iPhone/iPad in iOS 17 - 17.1 beta 3:
 Jailbreaking your iOS 17 device opens up a whole new world of possibilities. Here are some noteworthy benefits:
