@@ -84,7 +84,13 @@ Howеvеr,  it's еssеntial to approach jailbrеaking rеsponsibly,  as it invo
 | 17.0.2    | 21A350  | -            | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) - iPhone 15 and 15 Pro models only                   |
 | 21A351    | -       | September 26, 2023 | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) - All models except iPhone 15 and 15 Pro          |
 | 17.0.3    | 21A360  | October 4, 2023 | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) - Security content                                 |
-| 17.1 beta 3 | 21B5066a | October 10, 2023 | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) - -   
+| 17.1      | 21B74      | Oct 25, 2023     | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) - Release notes for all models except iPhone 15 and 15 Pro |
+| 21B80     | -          | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) - iPhone 15 and 15 Pro models only | -             |
+| 17.1.1    | 21B91      | Nov 7, 2023      |[https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) -  Release notes |
+| 17.2 beta 1 | 21C5029g | Oct 26, 2023     | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) -              |
+
+
+
 
 
 ## II. iOS 17 - 17.1 beta 3	Jailbreak Status:
