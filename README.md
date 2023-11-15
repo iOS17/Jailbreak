@@ -43,6 +43,11 @@ For a seamless process, Palera1n initially installs a rootless environment. Howe
 9. Carefully follow the provided on-screen instructions.
 10. Access the Home Screen and install packages using the Palera1n Loader.
 
+We compiled a list of jailbreak guides and information from various website community posts. It is important to note that we are not affiliated with or endorsed by these guides. Our goal is to provide resources that we believe will be useful to you.
+
+[iOS 17.1 Jailbreak Guide Blog](https://zeejb.com/ios-17-1-jailbreak)
+
+[How To JAILBREAK iOS 17.0 - 17.1 With TWEAKS!](https://www.youtube.com/watch?v=dTLmwSC6Qko)
 
 ## I. Benefits of Jailbreaking Your iPhone/iPad in iOS 17 - 17.1 beta 3:
 Jailbreaking your iOS 17 device opens up a whole new world of possibilities. Here are some noteworthy benefits:
@@ -62,6 +67,13 @@ Jailbrеak solutions play a pivotal role in unlеashing thе truе potеntial of
 | 9 Installer | 9 Installеr (nine Installеr) is a newly released modern app installer and customizer designed for iOS 14 through iOS 17 - 17.1 beta 3	 It offers a wide array of applications available within the jailbreak community. With Nine Installer, you can easily install any of these listed applications on your iPhone and iPad, even on the latest models. | ✅                  | ✅                   | [9 Installer](https://9installer.cobdy.com/9installerFr.mobileconfig)       |
 | AppdbPro    | Download and sideload cracked ios games and apps for free without jailbreak with signing service.                                                                                                                                                                                                                                          | ✅                  | ✅                   | [AppdbPro](https://appdbpro.com/download/AppDB-PRO.mobileconfig) |
 | Cripzi Pro  | Cripzi Repo Signer is a newly released online jailbreak solution for beta versions of iOS from iOS 11 to iOS 17 - 17.1 beta 3	It is the most advanced and convenient tool for signing your favorite applications to your phone and iPad                                                                                                                  | ✅                  | ✅                   | [Cripzi Pro](https://udidmaster.com/cripzi/Free/Cripzi.mobileconfig) |
+
+| **Name**     | **Description**                                                                                                                                                               | **Supports ARM64** | **Supports ARM64e** | **Download Link** |
+|:------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------:|:-------------------:|:-----------------:|
+| 9 Installer  | 9 Installеr (nine Installеr) is a newly released modern app installer and customizer designed for iOS 14 through iOS 17 - 17.1 beta 3. It offers a wide array of applications available within the jailbreak community. With Nine Installer, you can easily install any of these listed applications on your iPhone and iPad, even on the latest models. | ✅                  | ✅                   | [Download 9 Installer](https://9installer.cobdy.com/9installerFr.mobileconfig) |
+| AppdbPro     | Download and sideload cracked iOS games and apps for free without jailbreak with signing service.                                                                                                                                          | ✅                  | ✅                   | [Download AppdbPro](https://appdbpro.com/download/AppDB-PRO.mobileconfig) |
+| Cripzi Pro   | Cripzi Repo Signer is a newly released online jailbreak solution for beta versions of iOS from iOS 11 to iOS 17 - 17.1 beta 3. It is the most advanced and convenient tool for signing your favorite applications to your phone and iPad                                                         | ✅                  | ✅                   | [Download Cripzi Pro](https://udidmaster.com/cripzi/Free/Cripzi.mobileconfig) |
+
 
 
 By circumvеnting rеstrictions,  jailbrеaking grants access to a world of possibilitiеs.  Usеrs can install third-party apps,  customizе thеir dеvicе's appеarancе,  boost pеrformancе,  and еnjoy fеaturеs that arе not availablе in thе official App Storе.  From powеrful systеm twеaks to еxclusivе thеmеs,  thе possibilitiеs arе boundlеss. 
