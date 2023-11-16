@@ -1,9 +1,9 @@
 
 
 
-# iOS 17 - 17.1 beta 3 Jailbreak Tools, Status & Solutions
+# iOS 17 - 17.2 Jailbreak Tools, Status & Solutions(iOS 17.1.1)
 
-Exploring iOS 17 - 17.1 beta 3 Jailbreak: Benefits, Status, Possibilities, and Future Impact
+Exploring iOS 17 - 17.2(17.1.1) Jailbreak: Benefits, Status, Possibilities, and Future Impact
 
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
@@ -16,7 +16,7 @@ On October 10, 2023, Apple released the third beta version of its 17.1 software 
 
 Stay up to date with the latest Jailbreak updates by following us on Twitter. - [Follow iOS 17 Jailbreak](https://twitter.com/JailbreakBuddy)
 
-## iOS 17 - 17.1 beta 3	supported devices!
+## iOS 17 - 17.2(17.1.1) supported devices!
 
 The iPhone 8 and iPhone X have been discontinued
 
@@ -49,7 +49,7 @@ We compiled a list of jailbreak guides and information from various website comm
 
 [How To JAILBREAK iOS 17.0 - 17.1 With TWEAKS!](https://www.youtube.com/watch?v=dTLmwSC6Qko)
 
-## I. Benefits of Jailbreaking Your iPhone/iPad in iOS 17 - 17.1 beta 3:
+## I. Benefits of Jailbreaking Your iPhone/iPad in iOS 17 - 17.2(17.1.1):
 Jailbreaking your iOS 17 device opens up a whole new world of possibilities. Here are some noteworthy benefits:
 
 - Customization: Unleash your creativity by personalizing your device's appearance, including themes, icons, fonts, and more.
@@ -62,17 +62,12 @@ Jailbreaking your iOS 17 device opens up a whole new world of possibilities. Her
 
 Jailbrеak solutions play a pivotal role in unlеashing thе truе potеntial of your iOS dеvicе.  Thеsе innovativе tools offеr usеrs thе frееdom to customizе,  еnhancе,  and pеrsonalizе thеir iPhonеs and iPads bеyond thе limitations imposеd by Applе's iOS еcosystеm. 
 
-|   **Name**  |                                                                                                                                                               **Description**                                                                                                                                                              | **Supports ARM64** | **Supports ARM64e** | **Download Link** |
-|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------:|:-------------------:|:-----------------:|
-| 9 Installer | 9 Installеr (nine Installеr) is a newly released modern app installer and customizer designed for iOS 14 through iOS 17 - 17.1 beta 3	 It offers a wide array of applications available within the jailbreak community. With Nine Installer, you can easily install any of these listed applications on your iPhone and iPad, even on the latest models. | ✅                  | ✅                   | [9 Installer](https://9installer.cobdy.com/9installerFr.mobileconfig)       |
-| AppdbPro    | Download and sideload cracked ios games and apps for free without jailbreak with signing service.                                                                                                                                                                                                                                          | ✅                  | ✅                   | [AppdbPro](https://appdbpro.com/download/AppDB-PRO.mobileconfig) |
-| Cripzi Pro  | Cripzi Repo Signer is a newly released online jailbreak solution for beta versions of iOS from iOS 11 to iOS 17 - 17.1 beta 3	It is the most advanced and convenient tool for signing your favorite applications to your phone and iPad                                                                                                                  | ✅                  | ✅                   | [Cripzi Pro](https://udidmaster.com/cripzi/Free/Cripzi.mobileconfig) |
+| **Name**     | **Description**                                                                                                                                                               |   **Download Link** | **Supports ARM64** | **Supports ARM64e**|
+|:------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|:------------------:|:-------------------:|
+| 9 Installer  | 9 Installеr (nine Installеr) is a newly released modern app installer and customizer designed for iOS 14 through iOS 17 - 17.1 beta 3. It offers a wide array of applications available within the jailbreak community. With Nine Installer, you can easily install any of these listed applications on your iPhone and iPad, even on the latest models. | [9 Installer](https://9installer.cobdy.com/9installerFr.mobileconfig) | ✅                  | ✅                   |
+| AppdbPro     | Download and sideload cracked iOS games and apps for free without jailbreak with signing service.                                                                                                                                          | [AppdbPro](https://appdbpro.com/download/AppDB-PRO.mobileconfig) | ✅                  | ✅                   |
+| Cripzi Pro   | Cripzi Repo Signer is a newly released online jailbreak solution for beta versions of iOS from iOS 11 to iOS 17 - 17.1 beta 3. It is the most advanced and convenient tool for signing your favorite applications to your phone and iPad                                                         | [Cripzi Pro](https://udidmaster.com/cripzi/Free/Cripzi.mobileconfig) | ✅                  | ✅                   |
 
-| **Name**     | **Description**                                                                                                                                                               | **Supports ARM64** | **Supports ARM64e** | **Download Link** |
-|:------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:------------------:|:-------------------:|:-----------------:|
-| 9 Installer  | 9 Installеr (nine Installеr) is a newly released modern app installer and customizer designed for iOS 14 through iOS 17 - 17.1 beta 3. It offers a wide array of applications available within the jailbreak community. With Nine Installer, you can easily install any of these listed applications on your iPhone and iPad, even on the latest models. | ✅                  | ✅                   | [Download 9 Installer](https://9installer.cobdy.com/9installerFr.mobileconfig) |
-| AppdbPro     | Download and sideload cracked iOS games and apps for free without jailbreak with signing service.                                                                                                                                          | ✅                  | ✅                   | [Download AppdbPro](https://appdbpro.com/download/AppDB-PRO.mobileconfig) |
-| Cripzi Pro   | Cripzi Repo Signer is a newly released online jailbreak solution for beta versions of iOS from iOS 11 to iOS 17 - 17.1 beta 3. It is the most advanced and convenient tool for signing your favorite applications to your phone and iPad                                                         | ✅                  | ✅                   | [Download Cripzi Pro](https://udidmaster.com/cripzi/Free/Cripzi.mobileconfig) |
 
 
 
