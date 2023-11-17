@@ -1,9 +1,6 @@
+# iOS 17 - 17.2 Jailbreak Tools, Download, Status & Solutions(iOS 17.1.1)
 
-
-
-# iOS 17 - 17.2 Jailbreak Tools, Status & Solutions(iOS 17.1.1)
-
-Exploring iOS 17 - 17.2(17.1.1) Jailbreak: Benefits, Status, Possibilities, and Future Impact
+Exploring iOS 17 - 17.2 (17.1.1) Jailbreak: Benefits, Status, Possibilities, and Future Impact
 
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
@@ -160,6 +157,13 @@ Once your iOS 17 device is successfully jailbroken, it's essential to adopt best
 ## VIII. Future of iOS 17 Jailbreak and Its Impact on the Mobile Industry:
 
 As Apple continues to enhance iOS security, the future of iOS 17 jailbreak remains uncertain. However, the jailbreak community has consistently demonstrated resilience and creativity, driving innovation and pushing the boundaries of what iOS devices can do. While the impact of jailbreaking on the mobile industry is significant, it continues to foster healthy competition and encourage Apple to improve its ecosystem.
+
+## iOS 17.2 (b3)Jailbreak Status:
+
+According to the status of @MasterMike88 X, iOS 17.2 B3 can be jailbroken. He used an iPad 6th Generation (A10-Chip) device to test it. As a result, we can expect the Officeial Palera1n Jailbreak to be available after Apple releases Major iOS 17.2 to the public.
+
+![iOS 17.2 Jailbreak Done Palera1n?](https://github.com/iOS17/Jailbreak/assets/135683347/bfc800ad-eebf-485a-b75e-cdcd91971357)
+
 
 ## FAQ:
 
