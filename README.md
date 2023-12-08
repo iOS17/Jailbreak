@@ -1,6 +1,6 @@
-# iOS 17 - 17.2 Jailbreak Tools, Download, Status & Solutions(iOS 17.1.1)
+# iOS 17 - 17.2 Jailbreak Tools, Download, Status & Solutions(iOS 17.1.2)
 
-Exploring iOS 17 - 17.2 (17.1.1) Jailbreak: Benefits, Status, Possibilities, and Future Impact
+Exploring iOS 17 - 17.2 (17.1.2) Jailbreak: Benefits, Status, Possibilities, and Future Impact
 
 
 ![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
@@ -13,7 +13,7 @@ On October 10, 2023, Apple released the third beta version of its 17.1 software 
 
 Stay up to date with the latest Jailbreak updates by following us on Twitter. - [Follow iOS 17 Jailbreak](https://twitter.com/JailbreakBuddy)
 
-## iOS 17 - 17.2(17.1.1) supported devices!
+## iOS 17 - 17.2(17.1.2) supported devices!
 
 The iPhone 8 and iPhone X have been discontinued
 
@@ -21,9 +21,14 @@ The iPhone 8 and iPhone X have been discontinued
 
 # Complete Guide to Jailbreak iOS 17 using Palera1n in 2023
 
-Looking to jailbreak iOS 17 in 2023? Follow this step-by-step guide using the Palera1n tool. Avoid fake methods and achieve full access by following our recommended rootful guide.
+**Please keep in mind that no jailbreak tools are currently available in the community for iOS 17 and later. However, if you own an iPad (6th generation), you can jailbreak iOS 17 with the most recent release of the palera1n jailbreak tool. We strongly advise staying on the most recently available lower iOS version because working exploits are available for iOS 17 to iOS 17.2.**
 
-To jailbreak your iOS 17 device, you'll need to utilize the Palera1n tool or any other reliable jailbreak tool derived from its source code. Currently, there are no other viable solutions for jailbreaking iOS 17. Be cautious of misleading information on other platforms, as any claims about jailbreaking iOS 17 through other means are false and non-existent.
+
+
+
+Looking to jailbreak iOS 16 - 17(iPad (6th generation)) and below in 2023? Follow this step-by-step guide using the Palera1n tool. Avoid fake methods and achieve full access by following our recommended rootful guide.
+
+To jailbreak your iOS 16 device, you'll need to utilize the Palera1n tool or any other reliable jailbreak tool derived from its source code. Currently, there are no other viable solutions for jailbreaking iOS 16 - iOS 17. Be cautious of misleading information on other platforms, as any claims about jailbreaking iOS 16 - 17 through other means are false and non-existent.
 
 For a seamless process, Palera1n initially installs a rootless environment. However, if you desire complete access, you can refer to the Palera1n Rootful guide for comprehensive instructions on how to attain this.
 
@@ -46,7 +51,7 @@ We compiled a list of jailbreak guides and information from various website comm
 
 [How To JAILBREAK iOS 17.0 - 17.1 With TWEAKS!](https://www.youtube.com/watch?v=dTLmwSC6Qko)
 
-## I. Benefits of Jailbreaking Your iPhone/iPad in iOS 17 - 17.2(17.1.1):
+## I. Benefits of Jailbreaking Your iPhone/iPad in iOS 17 - 17.2(17.1.2):
 Jailbreaking your iOS 17 device opens up a whole new world of possibilities. Here are some noteworthy benefits:
 
 - Customization: Unleash your creativity by personalizing your device's appearance, including themes, icons, fonts, and more.
@@ -92,6 +97,11 @@ Howеvеr,  it's еssеntial to approach jailbrеaking rеsponsibly,  as it invo
 | 21B80     | -          | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) - iPhone 15 and 15 Pro models only | -             |
 | 17.1.1    | 21B91      | Nov 7, 2023      |[https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) -  Release notes |
 | 17.2 beta 1 | 21C5029g | Oct 26, 2023     | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) -              |
+| 17.1.2 | 21B101 | November 30, 2023     | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) -              |
+| 17.2 RC | 21C62 | December 5, 2023     | [https://github.com/iOS17/Releases](https://github.com/iOS17/Releases) -              |
+
+
+		
 
 
 
@@ -218,6 +228,7 @@ iOS 17 is available on September 18th 2023 for these devices:
 - iPhone XS Max
 - iPhone XR 
 - iPhone SE (2nd gen or later)
+- iPad (6th generation)
 
 # Jailbreak iOS 17: Achievements 
 ## Palera1n Jailbreak For iOS 17
