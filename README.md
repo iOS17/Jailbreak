@@ -1,12 +1,12 @@
-# iOS 17 - 17.2 Jailbreak Tools, Download, Status & Solutions(iOS 17.1.2)
+# iOS 17 - 17.3 Jailbreak Tools, Download, Status & Solutions(iOS 17.1.2)
 
-Exploring iOS 17 - 17.2 (17.1.2) Jailbreak: Benefits, Status, Possibilities, and Future Impact
+Exploring iOS 17, iOS 17.2 - 17.3 (17.1.2) Jailbreak: Benefits, Status, Possibilities, and Future Impact
 
 
-![Jailbreak IOS 17 and its beta Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
+![Jailbreak IOS 17 and its beta serotonin, nako, misaka, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
 
 ## Introduction:
-In the world of Apple's operating systems, iOS 17 has captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 devices. This comprehensive guide delves into the realm of iOS 17 jailbreak, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, future prospects, and FAQs. Let's embark on this exciting journey!
+In the world of Apple's operating systems, iOS 17 has captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 devices. This comprehensive guide delves into the realm of iOS 17 jailbreak, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
 
 ### Latest Update:
 On November 30, 2023, Apple released the iOS 17.1.2 and iPadOS 17.1.2 software update, which has the build number HT201222.
@@ -17,13 +17,13 @@ This means that the informed and experienced developer can get unauthorized read
 
 Stay up to date with the latest Jailbreak updates by following us on Twitter. - [Follow iOS 17 Jailbreak](https://twitter.com/JailbreakBuddy)
 
-## iOS 17 - 17.2(17.1.2) supported devices!
+## iOS 17 - 17.2, iOS 17.3 (17.1.2) supported devices!
 
 The iPhone 8 and iPhone X have been discontinued
 
 ![Jailbreak IOS 17 and its beta  supported device list Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/iOS17/Jailbreak/blob/main/IMG_266E30344626-1.jpeg)
 
-# Complete Guide to Jailbreak iOS 17 using Palera1n in 2023
+# Complete Guide to Jailbreak iOS 17 - iOS 17.3 using Palera1n in 2024
 
 **Please keep in mind that no jailbreak tools are currently available in the community for iOS 17 and later. However, if you own an iPad (6th generation), you can jailbreak iOS 17 with the most recent release of the palera1n jailbreak tool. We strongly advise staying on the most recently available lower iOS version because working exploits are available for iOS 17 to iOS 17.2.**
 
