@@ -9,6 +9,7 @@ Exploring iOS 17, iOS 17.2 - 17.3 (17.1.2) Jailbreak: Benefits, Status, Possibil
 In the world of Apple's operating systems, iOS 17 has captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 devices. This comprehensive guide delves into the realm of iOS 17 jailbreak, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
 
 ### Latest Update:
+iOS & iPadOS 17.3 Beta 3 Released 
 On November 30, 2023, Apple released the iOS 17.1.2 and iPadOS 17.1.2 software update, which has the build number HT201222.
 
 ** According to the [security information of iOS 17.1.2](https://support.apple.com/en-us/HT214031), two significant WebKit vulnerabilities could lead to arbitrary code execution.
