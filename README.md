@@ -1,12 +1,12 @@
-# iOS 17 - 17.3 Jailbreak Tools, Download, Status & Solutions(iOS 17.1.2)
+# iOS 17 - 17.3 Verified Jailbreak Tools, Download, Status & Solutions(iOS 17.1.3)
 
-Exploring iOS 17, iOS 17.2 - 17.3 (17.1.2) Jailbreak: Benefits, Status, Possibilities, and Future Impact
+Exploring iOS 17, iOS 17.1, iOS 17.2 - 17.3 (17.1.3) Jailbreak: Benefits, Status, Possibilities, and Future Impact
 
 
 ![Jailbreak IOS 17 and its beta serotonin, nako, misaka, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
 
 ## Introduction:
-In the world of Apple's operating systems, iOS 17 has captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 devices. This comprehensive guide delves into the realm of iOS 17 jailbreak, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
+In the world of Apple's operating systems, iOS 17 has captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 - iOS 17.3 devices. This comprehensive guide delves into the realm of iOS 17, 17.1, 17.2, and 17.3 jailbreaks, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
 
 ### Latest Update:
 iOS & iPadOS 17.3 Beta 3 Released 
@@ -16,32 +16,38 @@ On November 30, 2023, Apple released the iOS 17.1.2 and iPadOS 17.1.2 software u
 This means that the informed and experienced developer can get unauthorized read and write access to the afflicted system.
 
 
-Stay up to date with the latest Jailbreak updates by following us on Twitter. - [Follow iOS 17 Jailbreak](https://twitter.com/JailbreakBuddy)
+Stay updated with the latest Jailbreak updates by following us on Twitter. - [Follow iOS 17 Jailbreak](https://twitter.com/JailbreakBuddy)
 
-## iOS 17 - 17.2, iOS 17.3 (17.1.2) supported devices!
+## iOS 17, iOS 17.1, 17.2 and iOS 17.3 (17.1.3) supported devices!
 
-The iPhone 8 and iPhone X have been discontinued
+**The iPhone 8 and iPhone X have been discontinued**
 
-![Jailbreak IOS 17 and its beta  supported device list Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n ](https://github.com/iOS17/Jailbreak/blob/main/IMG_266E30344626-1.jpeg)
+![Jailbreak IOS 17 and its beta, iOS 17.3, iOS 17.1, ioS 17.2 supported device list Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n Jailbreak Guide](https://github.com/iOS17/Jailbreak/blob/main/IMG_266E30344626-1.jpeg)
 
-# Complete Guide to Jailbreak iOS 17 - iOS 17.3 using Palera1n in 2024
+# Complete Guide to Jailbreak iOS 17 - iOS 17.3 using Palera1n, Serotonin, NekoJB in 2024
 
-**Please keep in mind that no jailbreak tools are currently available in the community for iOS 17 and later. However, if you own an iPad (6th generation), you can jailbreak iOS 17 with the most recent release of the palera1n jailbreak tool. We strongly advise staying on the most recently available lower iOS version because working exploits are available for iOS 17 to iOS 17.2.**
+Hey there! **Are you ready to learn how to jailbreak your iOS 17 - iOS 17.3** devices(Including iOS 17.1, iOS 17.2) using the latest **Palera1n, Serotonin, and NekoJB** tools in 2024? Look no further than **our Complete Guide, packed with step-by-step instructions and helpful tips** to make the process a breeze. Get ready to unlock new possibilities on your device!
+
+**Please keep in mind that no jailbreak tools are currently available in the community for iOS 17 - iOS 17.3 and up. However, if you own an iPad (6th generation), you can jailbreak iOS 17 with the most recent release of the palera1n jailbreak tool. 
+
+We strongly advise staying on the most recently available lower iOS version because working exploits are available for iOS 17 to iOS 17.2.**
 
 
 
 
-Looking to jailbreak iOS 16 - 17(iPad (6th generation)) and below in 2023? Follow this step-by-step guide using the Palera1n tool. Avoid fake methods and achieve full access by following our recommended rootful guide.
+Looking to jailbreak iOS 17.3 - 16 and below in 2024? Follow this step-by-step guide using the Palera1n tool. Avoid fake methods and achieve full access by following our recommended rootful guide.
 
-To jailbreak your iOS 16 device, you'll need to utilize the Palera1n tool or any other reliable jailbreak tool derived from its source code. Currently, there are no other viable solutions for jailbreaking iOS 16 - iOS 17. Be cautious of misleading information on other platforms, as any claims about jailbreaking iOS 16 - 17 through other means are false and non-existent.
+To jailbreak your iOS 17 device, you'll need to utilize the Palera1n tool or any other reliable jailbreak tool derived from its source code. 
 
-For a seamless process, Palera1n initially installs a rootless environment. However, if you desire complete access, you can refer to the Palera1n Rootful guide for comprehensive instructions on how to attain this.
+**At present, there are no other workable methods available for jailbreaking iOS 16 to iOS 17. Be cautious of misleading information on other platforms, as claims about jailbreaking iOS 16 - 17 through other means are false and non-existent.**
 
-## Palera1n Rootful Guide
+For a seamless process, Palera1n initially installs a rootless environment. However, if you desire complete access, you can refer to the Palera1n Rootful guide for comprehensive instructions on how to get this.
+
+## Palera1n Rootful Guide 
 
 1. [Download the Palera1n jailbreak tool](https://github.com/palera1n/palera1n/releases) designed specifically for iOS 17. [Palera1n Complete Guide](https://zeejb.com/palera1n-jailbreak/)
 2. Save the downloaded file to your Desktop for quick access.
-3. Open the terminal application and execute the prescribed commands.
+3. **Open the terminal application** and execute the Following commands. "sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"
 4. Double-click on the palera1n-macos-universal application.
 5. Access  → System Preferences → Privacy & Security.
 6. In the Security section, permit the palera1n-macos-universal application by selecting "Allow anyway."
@@ -50,14 +56,37 @@ For a seamless process, Palera1n initially installs a rootless environment. Howe
 9. Carefully follow the provided on-screen instructions.
 10. Access the Home Screen and install packages using the Palera1n Loader.
 
-We compiled a list of jailbreak guides and information from various website community posts. It is important to note that we are not affiliated with or endorsed by these guides. Our goal is to provide resources that we believe will be useful to you.
+### Palera1n For Linux Guide
+1. Download the help.txt
+2. Open up a terminal
+3. Run "sudo systemctl stop usbmuxd"
+4. Then Run "sudo usbmuxd -f -p"
+5. Open up a new terminal window
+6. Clone the repo with git clone --recursive https://github.com/palera1n/palera1n && cd palera1n *If you’ve already cloned the repo, just run cd palera1n\
+7. Run sudo ./palera1n.sh --tweaks <iOS version you're on> --semi-tethered
+*Put your device in DFU Mode before running this command
+*Put your device in DFU Mode before running this command
+
+We compiled a list of jailbreak guides and information from various websites & community posts. It is important to note that we are not affiliated with or endorsed by these guides. Our goal is to provide resources that we believe will be useful to you.
 
 [iOS 17.1 Jailbreak Guide Blog](https://zeejb.com/ios-17-1-jailbreak)
 [iOS 17.2 Jailbreak Guide Blog](https://zeejb.com/jailbreak-ios-17-2/)
 
 [How To JAILBREAK iOS 17.0 - 17.1 With TWEAKS!](https://www.youtube.com/watch?v=dTLmwSC6Qko)
 
-## I. Benefits of Jailbreaking Your iPhone/iPad in iOS 17 - 17.2(17.1.2):
+## iOS 17 - 17.3 Serotonin Jailbreak Status:
+
+Serotonin is a tweak injection and/semi-jailbreak tool developed by [hrtowii1](https://github.com/mineek/Serotonin). 
+
+It is designed for arm64e devices (iPhone XS to iPhone 15 Pro Max) running iOS 16.0 to 16.6.11. It uses the KFD exploit from RootHide and Bootstrap to intelligently address hooks launched in SpringBoard's posix_spawnp.
+
+Serotonin then implements its own SpringBoard, using Springboardhook to facilitate various enhancements, tweaks and loading of ellekit.
+
+However, Serotonin does not support iOS 17.0 and above devices. The exact reason for this is there is no working jailbreak exploit released for these versions. and it could be due to various factors such as changes in iOS system architecture, security improvements or lack of exploits required for these versions. 
+
+It is also possible that the developers are still working on adding support for these versions. For more accurate information, it is best to check the official sources or contact the developers directly.
+
+## I. Benefits of Jailbreaking Your iPhone/iPad in iOS 17, iOS 17.1, iOS 17.2 - 17.3:
 Jailbreaking your iOS 17 device opens up a whole new world of possibilities. Here are some noteworthy benefits:
 
 ## Break Free from Restrictions and Expand Your Device's Capabilities
