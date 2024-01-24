@@ -44,6 +44,8 @@ To jailbreak your iOS 17 device, you'll need to utilize the Palera1n tool or any
 
 For a seamless process, Palera1n initially installs a rootless environment. However, if you desire complete access, you can refer to the Palera1n Rootful guide for comprehensive instructions on how to get this.
 
+Read More - [The Complete Guide to Palera1n Jailbreak - iOS 17.0 to iOS 17.4 Beta](https://github.com/iOS17/Palera1n-Jailbreak/)
+
 ## Palera1n Rootful Guide 
 
 1. [Download the Palera1n jailbreak tool](https://github.com/palera1n/palera1n/releases) designed specifically for iOS 17. [Palera1n Complete Guide](https://zeejb.com/palera1n-jailbreak/)
