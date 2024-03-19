@@ -7,11 +7,14 @@ Exploring iOS 17, iOS 17.1, iOS 17.2, 17.3 - iOS 17.4 beta (17.1.3) Jailbreak: B
 ![Jailbreak IOS 17 - 17.4 and its beta serotonin, Def1nit3lyN0tAJa1lbr3akTool nako, misaka, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
 
 ## Introduction:
-In the world of Apple's operating systems, iOS 17 has captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 - iOS 17.3 devices. This comprehensive guide delves into the realm of iOS 17, 17.1, 17.2, and 17.3 jailbreaks, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
+In the world of Apple's operating systems, iOS 17 has captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 - iOS 17.3 devices. This comprehensive guide delves into iOS 17, 17.1, 17.2, 17.3, and 17.4 jailbreaks, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
 
 ### Latest Update:
-iOS & iPadOS 17.3 Beta 3 Released 
-On November 30, 2023, Apple released the iOS 17.1.2 and iPadOS 17.1.2 software update, which has the build number HT201222.
+iOS 17.4 Released (21E219)
+
+iOS & iPadOS 17.3.1 Released 
+
+On November 30, 2023, Apple released the iOS 17.1.2(21B101) and iOS 17.2.1 (December 19, 2023) software update, the build number 21E219.
 
 ** According to the [security information of iOS 17.1.2](https://support.apple.com/en-us/HT214031), two significant WebKit vulnerabilities could lead to arbitrary code execution.
 This means that the informed and experienced developer can get unauthorized read and write access to the afflicted system.
@@ -20,14 +23,25 @@ Stay updated with the latest Jailbreak updates by following us on Twitter. - [Fo
 
 [Def1nit3lyN0tAJa1lbr3akTool Jailbreak Released for iOS 15.7 - iOS 16.6.1](https://zeejb.com/def1nit3lyn0taja1lbr3aktool-jailbreak-tool/)
 
+![iOS 17.3 Jailbreak Status](https://github.com/iOS17/Jailbreak/assets/135683347/2588016d-df84-4140-b8ac-7d7ab2cf4988)
+** According to [iOS 17.3 security information](https://support.apple.com/en-us/HT214059), There may be a kernel-level issue that could be used for jailbreaking, but we need to await confirmation.
+(Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later)
 
-## iOS 17, iOS 17.1, 17.2 and iOS 17.3 (17.1.3) supported devices!
+
+#############################
+
+|  [Download : Esign For iOS 17.4 Released](https://esigncert.zeejb.com/)  |
+
+#############################
+
+
+## iOS 17, iOS 17.1, 17.2, 17.3 and 17.4 (17.1.3) supported devices!
 
 **The iPhone 8 and iPhone X have been discontinued**
 
 ![Jailbreak IOS 17 and its beta, iOS 17.3, iOS 17.1, ioS 17.2 supported device list Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n Jailbreak Guide](https://github.com/iOS17/Jailbreak/blob/main/IMG_266E30344626-1.jpeg)
 
-# Complete Guide to Jailbreak iOS 17 - iOS 17.3 using Palera1n, Serotonin, NekoJB in 2024
+# Complete Guide to Jailbreak iOS 17 - iOS 17.4 using Palera1n, Serotonin, NekoJB in 2024
 
 Hey there! **Are you ready to learn how to jailbreak your iOS 17 - iOS 17.3** devices(Including iOS 17.1, iOS 17.2) using the latest **Palera1n, Serotonin, and NekoJB** tools in 2024? Look no further than **our Complete Guide, packed with step-by-step instructions and helpful tips** to make the process a breeze. Get ready to unlock new possibilities on your device!
 
@@ -91,7 +105,7 @@ However, Serotonin does not support iOS 17.0 and above devices. The exact reason
 
 It is also possible that the developers are still working on adding support for these versions. For more accurate information, it is best to check the official sources or contact the developers directly.
 
-## I. Benefits of Jailbreaking Your iPhone/iPad in iOS 17, iOS 17.1, iOS 17.2 - 17.3:
+## I. Benefits of Jailbreaking Your iPhone/iPad in iOS 17, iOS 17.1, iOS 17.2, 17.3 - 17.4:
 Jailbreaking your iOS 17 device opens up a whole new world of possibilities. Here are some noteworthy benefits:
 
 ## Break Free from Restrictions and Expand Your Device's Capabilities
