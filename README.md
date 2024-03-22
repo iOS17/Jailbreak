@@ -9,6 +9,16 @@ Exploring iOS 17, iOS 17.1, iOS 17.2, 17.3 - iOS 17.4 beta (17.1.3) Jailbreak: B
 ## Introduction:
 In the world of Apple's operating systems, iOS 17 has captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 - iOS 17.3 devices. This comprehensive guide delves into iOS 17, 17.1, 17.2, 17.3, and 17.4 jailbreaks, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
 
+##########################################
+OFFER ##########################################
+![Free Download Gbox Esign Certificates P12](https://github.com/iOS17/Jailbreak/assets/135683347/01246746-cc1c-4850-b040-ea071394760a)
+
+** [Download Certificates Now](https://esigncert.zeejb.com/) **
+
+#######################################################################################################
+
+
+
 ### Latest Update:
 iOS 17.4 Released (21E219)
 
@@ -24,7 +34,7 @@ Stay updated with the latest Jailbreak updates by following us on Twitter. - [Fo
 [Def1nit3lyN0tAJa1lbr3akTool Jailbreak Released for iOS 15.7 - iOS 16.6.1](https://zeejb.com/def1nit3lyn0taja1lbr3aktool-jailbreak-tool/)
 
 ![iOS 17.3 Jailbreak Status](https://github.com/iOS17/Jailbreak/assets/135683347/2588016d-df84-4140-b8ac-7d7ab2cf4988)
-** According to [iOS 17.3 security information](https://support.apple.com/en-us/HT214059), There may be a kernel-level issue that could be used for jailbreaking, but we need to await confirmation.
+** According to [iOS 17.3 security information](https://support.apple.com/en-us/HT214059), there may be a kernel-level issue that could be used for jailbreaking, but we need to await confirmation.
 (Available for: iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later)
 
 
