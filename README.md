@@ -57,14 +57,14 @@ Hey there! **Are you ready to learn how to jailbreak your iOS 17 - iOS 17.3** de
 
 **Please keep in mind that no jailbreak tools are currently available in the community for iOS 17 - iOS 17.3 and up. However, if you own an iPad (6th generation), you can jailbreak iOS 17 with the most recent release of the palera1n jailbreak tool. 
 
-We strongly advise staying on the most recently available lower iOS version because working exploits are available for iOS 17 to iOS 17.2.**
+We strongly suggest staying on the most recently available lower iOS version because working exploits are available for iOS 17 to iOS 17.2.**
 
 
 
 
 Looking to jailbreak iOS 17.3 - 16 and below in 2024? Follow this step-by-step guide using the Palera1n tool. Avoid fake methods and achieve full access by following our recommended rootful guide.
 
-To jailbreak your iOS 17 device, you'll need to utilize the Palera1n tool or any other reliable jailbreak tool derived from its source code. 
+To jailbreak your iOS 17 device, you must utilize the Palera1n tool or any other reliable jailbreak tool derived from its source code. 
 
 **At present, there are no other workable methods available for jailbreaking iOS 16 to iOS 17. Be cautious of misleading information on other platforms, as claims about jailbreaking iOS 16 - 17 through other means are false and non-existent.**
 
