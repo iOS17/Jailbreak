@@ -34,7 +34,7 @@ Stay updated with the latest Jailbreak updates by following us on Twitter. - [Fo
 [Def1nit3lyN0tAJa1lbr3akTool Jailbreak Released for iOS 15.7 - iOS 16.6.1](https://zeejb.com/def1nit3lyn0taja1lbr3aktool-jailbreak-tool/)
 
 ![iOS 17.3 Jailbreak Status](https://github.com/iOS17/Jailbreak/assets/135683347/2588016d-df84-4140-b8ac-7d7ab2cf4988)
-** According to [iOS 17.3 security information](https://support.apple.com/en-us/HT214059), there may be a kernel-level issue that could be used for jailbreaking, but we need to await confirmation.
+** According to [iOS 17.3 security information](https://support.apple.com/en-us/HT214059), a kernel-level issue may be used for jailbreaking, but we need to await confirmation.
 (Available for iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later)
 
 
@@ -47,13 +47,13 @@ Stay updated with the latest Jailbreak updates by following us on Twitter. - [Fo
 #############################
 
 
-## iOS 17, iOS 17.1, 17.2, 17.3 and 17.4 (17.1.3) supported devices!
+## iOS 17, iOS 17.1, 17.2, 17.3 and 17.4.1 (17.1.3) supported devices!
 
 **The iPhone 8 and iPhone X have been discontinued**
 
 ![Jailbreak IOS 17 and its beta, iOS 17.3, iOS 17.1, ioS 17.2 supported device list Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n Jailbreak Guide](https://github.com/iOS17/Jailbreak/blob/main/IMG_266E30344626-1.jpeg)
 
-# Complete Guide to Jailbreak iOS 17 - iOS 17.4 using Palera1n, Serotonin, NekoJB, Redensa, Dopamine in 2024
+# Complete Guide to Jailbreak iOS 17 - iOS 17.4 using Palera1n, Serotonin, NekoJB, Redensa, and Dopamine in 2024
 
 Hey there! **Are you ready to learn how to jailbreak your iOS 17 - iOS 17.4.1** devices(Including iOS 17.1, 17.2 and iOS 17.3) using the latest **Palera1n, Serotonin, and NekoJB Redensa Dopamine** tools in 2024? Look no further than **our Complete Guide, packed with step-by-step instructions and helpful tips** to make the process a breeze. Get ready to unlock new possibilities on your device!
 
@@ -119,7 +119,7 @@ It is also possible that the developers are still working on adding support for 
 
 ## iOS 17 - 17.3 Redensa Jailbreak Status:
 
-Redensa is not a jailbreak tool. It is a web clip application that works on iOS Safari browser. Our team has analyzed this web clip app and categorized it as a jailbreak alternative solution. You can install Redensa as a jailbreak solution for iOS 17 - iOS 17.4.1 running devices. However, it is important to download the web clip application only through verified servers to avoid any security issues.
+Redensa is not a jailbreak tool. It is a web clip application that works on the iOS Safari browser. Our team has analyzed this web clip app and categorized it as a jailbreak alternative solution. You can install Redensa as a jailbreak solution for iOS 17 - iOS 17.4.1 running devices. However, it is important to download the web clip application only through verified servers to avoid any security issues.
 
 Moreover, if you come across any new jailbreak tools, you can check their compatibility with your device and iOS version by using the AI Jailbreak Tool released by the Zeejb team. It is the only reliable source to find the best match for your device.
 
