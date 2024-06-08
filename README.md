@@ -61,6 +61,8 @@ You can stay updated with the latest Jailbreak updates by following us on Twitte
 
 Hey there! **Are you ready to learn how to jailbreak your iOS 17 - iOS 17.4.1** devices(Including iOS 17.1, 17.2 and iOS 17.3) using the latest **Palera1n, Serotonin, and NekoJB Redensa Dopamine** tools in 2024? Look no further than **our Complete Guide, packed with step-by-step instructions and helpful tips** to make the process a breeze. Get ready to unlock new possibilities on your device!
 
+**Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
+
 **Please keep in mind that no working jailbreak tools are currently available in the community for iOS 17 - iOS 17.4 and up. However, if you own an iPad (6th generation), you can jailbreak iOS 17 - iOS 17.1 with the most recent release of the palera1n jailbreak tool. 
 
 We strongly suggest staying on the most recently available lower iOS version because working exploits are available for iOS 17 to iOS 17.2.**
@@ -109,7 +111,7 @@ We compiled a list of jailbreak guides and information from various websites & c
 
 [How To JAILBREAK iOS 17.0 - 17.1 With TWEAKS!](https://www.youtube.com/watch?v=dTLmwSC6Qko)
 
-## iOS 17 - 17.3 Serotonin Jailbreak Status:
+## iOS 17 - 17.5.1 Serotonin Jailbreak Status:
 
 Serotonin is a tweak injection and/or semi-jailbreak tool developed by [hrtowii1](https://github.com/mineek/Serotonin). 
 
@@ -121,7 +123,7 @@ However, Serotonin does not support iOS 17.0 and above devices. The exact reason
 
 It is also possible that the developers are still working on adding support for these versions. For more accurate information, it is best to check the official sources or contact the developers directly.
 
-## iOS 17 - 17.3 Redensa Jailbreak Status:
+## iOS 17 - 17.5 Redensa Jailbreak Status:
 
 Redensa is not a jailbreak tool. It is a web clip application that works on the iOS Safari browser. Our team has analyzed this web clip app and categorized it as a jailbreak alternative solution. You can install Redensa as a jailbreak solution for iOS 17 - iOS 17.4.1 running devices. However, it is important to download the web clip application only through verified servers to avoid any security issues.
 
@@ -156,7 +158,7 @@ Jailbrеak solutions play a pivotal role in unlеashing thе truе potеntial of
 | **Name**       | **Description**                                                                                                                                                                   |   **Download Link**                                           | **Supports ARM64** | **Supports ARM64e**|
 |:--------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:------------------:|:-------------------:|
 | Esign Pro     | Esign Pro is a popular iOS on-device signer, enabling the installation of any IPA file with either a globally available certificate or your own developer certificate. Notably, these apps remain installed until your developer certificate expires (1 year). | [Esign Pro](https://esigncert.zeejb.com)                    | ✅                  | ✅                   |
-| Appdb Pro     | AppDb Pro is an online IPA installation service, widely known as the easiest way to install IPA files on your device. Its main advantage lies in the up-to-date appdb database, offering a wide array of iOS and Mac OS applications. With an Appdb Pro premium membership, you can download over 1000 apps, games, tweaks, and more without limitations. | [Appdb Pro](https://appdbpro.com/download/AppDB-PRO.mobileconfig) | ✅                  | ✅                   |
+| Appdb Pro     | AppDb Pro is an online IPA installation service, widely known as the easiest way to install IPA files on your device. Its main advantage lies in the up-to-date appdb database, offering many iOS and Mac OS applications. With an Appdb Pro premium membership, you can download over 1000 apps, games, tweaks, and more without limitations. | [Appdb Pro](https://appdbpro.com/download/AppDB-PRO.mobileconfig) | ✅                  | ✅                   |
 | 9 Installer   | 9 Installеr (nine Installеr) is a newly released modern app installer and customizer designed for iOS 14 through iOS 17 - 17.5.1. It offers a wide array of applications available within the jailbreak community. With Nine Installer, you can easily install any of these listed applications on your iPhone and iPad, even on the latest models. | [9 Installer](https://9installer.cobdy.com/9installerFr.mobileconfig) | ✅                  | ✅                   |
 | Cripzi Pro     | Cripzi Repo Signer is a newly released online jailbreak solution for beta versions of iOS from iOS 11 to iOS 17 - 17.5. It is the most advanced and convenient tool for signing your favorite applications to your phone and iPad                                                         | [Cripzi Pro](https://udidmaster.com/cripzi/Free/Cripzi.mobileconfig) | ✅                  | ✅                   |
 
