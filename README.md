@@ -159,8 +159,8 @@ Jailbrеak solutions play a pivotal role in unlеashing thе truе potеntial of
 |:--------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------:|:------------------:|:-------------------:|
 | Esign Pro     | Esign Pro is a popular iOS on-device signer, enabling the installation of any IPA file with either a globally available certificate or your own developer certificate. Notably, these apps remain installed until your developer certificate expires (1 year). | [Esign Pro](https://esigncert.zeejb.com)                    | ✅                  | ✅                   |
 | Appdb Pro     | AppDb Pro is an online IPA installation service, widely known as the easiest way to install IPA files on your device. Its main advantage lies in the up-to-date appdb database, offering many iOS and Mac OS applications. With an Appdb Pro premium membership, you can download over 1000 apps, games, tweaks, and more without limitations. | [Appdb Pro](https://appdbpro.com/download/AppDB-PRO.mobileconfig) | ✅                  | ✅                   |
-| 9 Installer   | 9 Installеr (nine Installеr) is a newly released modern app installer and customizer designed for iOS 14 through iOS 17 - 17.5.1. It offers a wide array of applications available within the jailbreak community. With Nine Installer, you can easily install any of these listed applications on your iPhone and iPad, even on the latest models. | [9 Installer](https://9installer.cobdy.com/9installerFr.mobileconfig) | ✅                  | ✅                   |
-| Cripzi Pro     | Cripzi Repo Signer is a newly released online jailbreak solution for beta versions of iOS from iOS 11 to iOS 17 - 17.5. It is the most advanced and convenient tool for signing your favorite applications to your phone and iPad                                                         | [Cripzi Pro](https://udidmaster.com/cripzi/Free/Cripzi.mobileconfig) | ✅                  | ✅                   |
+| 9 Installer   | 9 Installеr (nine Installеr) is a newly released modern app installer and customizer designed for iOS 14 through iOS 17 - 17.8. It offers a wide array of applications available within the jailbreak community. With Nine Installer, you can easily install any of these listed applications on your iPhone and iPad, even on the latest models. | [9 Installer](https://9installer.cobdy.com/9installerFr.mobileconfig) | ✅                  | ✅                   |
+| Cripzi Pro     | Cripzi Repo Signer is a newly released online jailbreak solution for beta versions of iOS from iOS 11 to iOS 17 - 18. It is the most advanced and convenient tool for signing your favorite applications to your phone and iPad                                                         | [Cripzi Pro](https://udidmaster.com/cripzi/Free/Cripzi.mobileconfig) | ✅                  | ✅                   |
 
 
 
@@ -190,9 +190,12 @@ Howеvеr,  it's еssеntial to approach jailbrеaking rеsponsibly,  as it invo
 | 17.1.1 | 21B91 | November 7, 2023 | [Link to release notes](https://github.com/iOS17/Releases): [Link to more details](https://github.com/iOS17/Releases) | Release notes |
 | 17.2 beta 1 | 21C5029g | October 26, 2023 | [Link to release notes](https://github.com/iOS17/Releases): [Link to more details](https://github.com/iOS17/Releases) | - |
 | 17.1.2 | 21B101 | November 30, 2023 | [Link to release notes](https://github.com/iOS17/Releases): [Link to more details](https://github.com/iOS17/Releases) | Release notes |
-| 17.2 RC | 21C62 | December 5, 2023 | [Link to release notes](https://github.com/iOS17/Releases): [Link to more details](https://github.com
-| 17.3 beta 3 |	21D5044a | January 9, 2024 | [Link to release notes](https://github.com/iOS17/Releases): [Link to more details](https://github.com
-
+| 17.2 RC | 21C62 | December 5, 2023 | [Link to release notes](https://github.com/iOS17/Releases): [Link to more details](https://github.com/iOS17/Releases) | - |
+| 17.3 beta 3 | 21D5044a | January 9, 2024 | [Link to release notes](https://github.com/iOS17/Releases): [Link to more details](https://github.com/iOS17/Releases) | - |
+| 17.4.1 | 21E236 | March 21, 2024 | [Link to release notes](https://github.com/iOS17/Releases): [Link to more details](https://github.com/iOS17/Releases) | Security updates |
+| 17.5 | 21F5048f | 2 April 2024 | [Link to release notes](https://support.apple.com/en-us/118723): [Link to more details](https://support.apple.com/en-us/118723) | New Pride Radiance wallpaper, Apple News enhancements, other features, bug fixes, and security updates |
+| 17.5.1 | 21F91 | May 20, 2024 | [Link to release notes](https://support.apple.com/en-us/118723): [Link to more details](https://support.apple.com/en-us/118723) | Important bug fixes, addresses issue with deleted photos reappearing in Photos library |
+|17.6 beta 2 | - | - | - |
 
 
 		
