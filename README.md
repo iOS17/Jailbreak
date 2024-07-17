@@ -1,4 +1,4 @@
-# iOS 17 - 17.5.1 beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 17.3, iOS 17.1.3, 17.2.1)
+# iOS 17 - 17.5.1 beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 18, 17.3, iOS 17.1.3, 17.2.1)
 
 <meta name="google-site-verification" content="N5fkQW_mArfKg_c68CbB-YfIWX_Fts0dXkJkTQuKUoE" />
 Exploring iOS 17, iOS 17.1, iOS 17.2, 17.3, 17.5 - iOS 17.5.1 (17.1.3) Jailbreak: Benefits, Status, Possibilities, and Future Impact
@@ -162,6 +162,12 @@ Jailbrеak solutions play a pivotal role in unlеashing thе truе potеntial of
 | 9 Installer   | 9 Installеr (nine Installеr) is a newly released modern app installer and customizer designed for iOS 14 through iOS 17 - 17.8. It offers a wide array of applications available within the jailbreak community. With Nine Installer, you can easily install any of these listed applications on your iPhone and iPad, even on the latest models. | [9 Installer](https://9installer.cobdy.com/9installerFr.mobileconfig) | ✅                  | ✅                   |
 | Cripzi Pro     | Cripzi Repo Signer is a newly released online jailbreak solution for beta versions of iOS from iOS 11 to iOS 17 - 18. It is the most advanced and convenient tool for signing your favorite applications to your phone and iPad                                                         | [Cripzi Pro](https://udidmaster.com/cripzi/Free/Cripzi.mobileconfig) | ✅                  | ✅                   |
 
+
+
+_____________________________READ MORE_____________________________________
+[Dopamine Jailbreak for iOS 17- iOS 16.7.1
+](https://github.com/iOS17/Dopamine-Jailbreak)
+___________________________________________________________________________
 
 
 By circumvеnting rеstrictions,  jailbrеaking grants access to a world of possibilitiеs.  Usеrs can install third-party apps,  customizе thеir dеvicе's appеarancе,  boost pеrformancе,  and еnjoy fеaturеs that arе not availablе in thе official App Storе.  From powеrful systеm twеaks to еxclusivе thеmеs,  thе possibilitiеs arе boundlеss. 
