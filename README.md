@@ -1,30 +1,29 @@
-# iOS 17 - 17.5.1, 18 beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 18, 17.3, iOS 17.1.3, 17.2.1)
+# iOS 17 - 17.5.1, 18.1 and its beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 18, 17.3, iOS 17.1.3, 17.2.1)
 
 <meta name="google-site-verification" content="N5fkQW_mArfKg_c68CbB-YfIWX_Fts0dXkJkTQuKUoE" />
-Exploring iOS 17, iOS 17.1, iOS 17.2, 17.3, 17.5 - iOS 17.5.1 (17.1.3) Jailbreak: Benefits, Status, Possibilities, and Future Impact
+Exploring iOS 18, iOS 17, iOS 17.1, iOS 17.2, 17.3, 17.5, iOS 17.5.1, iOS 17.6 - iOS 17.6.1 (17.1.3) Jailbreak: Benefits, Status, Possibilities, and Future Impact
 
 
-![Jailbreak IOS 17 - 17.4 and its beta serotonin, Def1nit3lyN0tAJa1lbr3akTool, nako, Redensa, misaka, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
+![Jailbreak IOS 17 - 17.6.1, iOS 18.1 and its beta serotonin, Def1nit3lyN0tAJa1lbr3akTool, nako, Redensa, misaka, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n, Xinam1ne, Pangu](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
 
 ## Introduction:
-In the world of Apple's operating systems, iOS 17 has captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 - iOS 17.5 devices. This comprehensive guide delves into iOS 17, 17.1, 17.2, 17.3, 17.4, and 17.5 jailbreaks, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
+In the world of Apple's operating systems, iOS 17 & iOS 18 has captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 - iOS 17.5 & iOS 18.1 devices. This comprehensive guide delves into iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6, and 18 jailbreaks, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
 
 ##########################################
 OFFER ##########################################
-![Free Download Gbox Esign Certificates P12](https://github.com/iOS17/Jailbreak/assets/135683347/01246746-cc1c-4850-b040-ea071394760a)
+![Free Download Gbox Esign Certificates P12 for iOS 18 Sideloadling AppStore Alternative](https://github.com/iOS17/Jailbreak/assets/135683347/01246746-cc1c-4850-b040-ea071394760a)
 
-** [Download Certificates Now](https://esigncert.zeejb.com/) **
+** [Download Free .p12 Certificates Now](https://esigncert.zeejb.com/) **
 
 #######################################################################################################
 
 
 
 ### Latest Update:
-iOS 17.5 Released (21F90)
+iOS 18.1 beta 4 is out to all iOS 18-supported devices!(Build 22B5045h)
+![iOS beta 4 is out to all iOS 18-supported devices!(Build 22B5045h) How to Jailbreak? ](https://github.com/user-attachments/assets/6a660020-cc44-4968-bef4-6397c0e3a575)
+iOS 17.7 Released (21H16)
 
-
-
-On November 30, 2023, Apple released the iOS 17.1.2(21B101) and iOS 17.2.1 (December 19, 2023) software update, the build number 21E219.
 
 ** According to the [security information of iOS 17.1.2](https://support.apple.com/en-us/HT214031), two significant WebKit vulnerabilities could lead to arbitrary code execution.
 This means that the informed and experienced developer can get unauthorized read and write access to the afflicted system.
@@ -60,30 +59,33 @@ You can stay updated with the latest Jailbreak updates by following us on Twitte
 
 # Complete Guide to Jailbreak iOS 17 - iOS 17.5 using Palera1n, Serotonin, NekoJB, Redensa, and Dopamine in 2024
 
-Hey there! **Are you ready to learn how to jailbreak your iOS 17 - iOS 17.4.1** devices(Including iOS 17.1, 17.2 and iOS 17.3) using the latest **Palera1n, Serotonin, and NekoJB Redensa Dopamine** tools in 2024? Look no further than **our Complete Guide, packed with step-by-step instructions and helpful tips** to make the process a breeze. Get ready to unlock new possibilities on your device!
+Hey there! **Are you ready to learn how to jailbreak your iOS 17 - iOS 17.6.1** devices(Including iOS 17.1, 17.2 and iOS 17.3+) using the latest **Palera1n, Serotonin, and NekoJB Redensa Dopamine** tools in 2024? Look no further than **our Complete Guide, packed with step-by-step instructions and helpful tips** to make the process a breeze. Get ready to unlock new possibilities on your device!
 
 **Check if your device is compatible with the latest jailbreak tools - [Free Online  iOS 18 - iOS 8 Jailbreak Finder App](https://kekuk.com/ipa/jbfinder.php)**
 
-**Please keep in mind that no working jailbreak tools are currently available in the community for iOS 17 - iOS 17.4 and up. However, if you own an iPad (6th generation), you can jailbreak iOS 17 - iOS 17.1 with the most recent release of the palera1n jailbreak tool. 
+**Please keep in mind that no working jailbreak tools are currently available in the community for iOS 17 - iOS 17.4 and up. However, if you own an iPad (6th generation), you can jailbreak iPadOS 17 - 17.6.1 & iPadOS 18 with the most recent release of the palera1n jailbreak tool.
 
-We strongly suggest staying on the most recently available lower iOS version because working exploits are available for iOS 17 to iOS 17.2.**
-
-
+![jailbreak iPadOS 17 - 17.6.1 & iPadOS 18 with the most recent release of the palera1n jailbreak tool](https://github.com/user-attachments/assets/41dd4890-8716-4d54-8a12-2c80d2e3cbce)
 
 
-Looking to jailbreak iOS 17.5 - 16 and below in 2024? Follow this step-by-step guide using the Palera1n tool. Avoid fake methods and achieve full access by following our recommended rootful guide.
+We strongly suggest staying on the most recently available lower iOS version because working exploits are available for iOS 17 to iOS 17.6.1.**
+
+
+
+
+Looking to jailbreak iOS 18, 17.6.1 - 16 and below in 2024? Follow this step-by-step guide using the Palera1n tool. Avoid fake methods and achieve full access by following our recommended rootful guide.
 
 To jailbreak your iOS 17 device, you must utilize the Palera1n tool or any other reliable tool derived from its source code. 
 
-**At present, there are no other workable methods available for jailbreaking iOS 16 to iOS 17. Be cautious of misleading information on other platforms, as claims about jailbreaking iOS 16 - 17 through other means are false and non-existent.**
+**At present, there are no other workable methods available for jailbreaking iOS 16 to iOS 17. Be cautious of misleading information on other platforms, as claims about jailbreaking iOS 16 - 18.1 through other means are false and non-existent.**
 
 For a seamless process, Palera1n initially installs a rootless environment. However, if you desire complete access, you can refer to the Palera1n Rootful guide for comprehensive instructions on how to get this.
 
-Read More - [The Complete Guide to Palera1n Jailbreak - iOS 17.0 to iOS 17.4 Beta](https://github.com/iOS17/Palera1n-Jailbreak/)
+Read More - [The Complete Guide to Palera1n Jailbreak - iOS 17.0 to iOS 17.6.1 AND IOS 18.1 Beta 4](https://github.com/iOS17/Palera1n-Jailbreak/)
 
 ## Palera1n Rootful Guide 
 
-1. [Download the Palera1n jailbreak tool](https://github.com/palera1n/palera1n/releases) designed specifically for iOS 17. [Palera1n Complete Guide](https://zeejb.com/palera1n-jailbreak/)
+1. [Download the Palera1n jailbreak tool](https://github.com/palera1n/palera1n/releases) designed specifically for iPadOS 18 -  iOS 17. [Palera1n Complete Guide](https://zeejb.com/palera1n-jailbreak/)
 2. Save the downloaded file to your Desktop for quick access.
 3. **Open the terminal application** and execute the following commands. "sudo /bin/sh -c "$(curl -fsSL https://static.palera.in/scripts/install.sh)"
 4. Double-click on the palera1n-macos-universal application.
