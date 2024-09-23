@@ -1,4 +1,4 @@
-# iOS 17 - 17.5.1, 18.1 and its beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 18, 17.3, iOS 17.1.3, 17.2.1)
+# iOS 17 - 17.5.1, 18, 18.1 and its beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 18, 17.3, iOS 17.1.3, 17.2.1)
 
 <meta name="google-site-verification" content="N5fkQW_mArfKg_c68CbB-YfIWX_Fts0dXkJkTQuKUoE" />
 Exploring iOS 18, iOS 17, iOS 17.1, iOS 17.2, 17.3, 17.5, iOS 17.5.1, iOS 17.6 - iOS 17.6.1 (17.1.3) Jailbreak: Benefits, Status, Possibilities, and Future Impact
@@ -30,6 +30,7 @@ This means that the informed and experienced developer can get unauthorized read
 
 You can stay updated with the latest Jailbreak updates by following us on Twitter. - [Follow iOS 17 Jailbreak](https://twitter.com/JailbreakBuddy)
 
+[MisakaX customization tool for iOS 18.1 and iOS 17: No Jailbreak Needed!](https://github.com/iOS17/MisakaX)
 [Def1nit3lyN0tAJa1lbr3akTool Jailbreak Released for iOS 15.7 - iOS 16.6.1](https://zeejb.com/def1nit3lyn0taja1lbr3aktool-jailbreak-tool/)
 [iOS 17 - iOS 18 How to Sideload iPA file?](https://github.com/iOS17/sideloadly)
 
