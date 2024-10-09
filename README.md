@@ -1,13 +1,13 @@
 # iOS 17 - 17.5.1, 18, 18.1 and its beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 18, 17.3, iOS 17.1.3, 17.2.1)
 
 <meta name="google-site-verification" content="N5fkQW_mArfKg_c68CbB-YfIWX_Fts0dXkJkTQuKUoE" />
-Exploring iOS 18, iOS 17, iOS 17.1, iOS 17.2, 17.3, 17.5, iOS 17.5.1, iOS 17.6 - iOS 17.6.1 (17.1.3) Jailbreak: Benefits, Status, Possibilities, and Future Impact
+Exploring iOS 18.1, iOS 18, iOS 17, iOS 17.1, iOS 17.2, 17.3, 17.5, iOS 17.5.1, iOS 17.6( 17.6.1) - iOS 17.7, iOS (17.1.3) Jailbreak: Benefits, Status, Possibilities, and Future Impact
 
 
 ![Jailbreak IOS 17 - 17.6.1, iOS 18.1 and its beta serotonin, Def1nit3lyN0tAJa1lbr3akTool, nako, Redensa, misaka, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n, Xinam1ne, Pangu](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
 
 ## Introduction:
-In the world of Apple's operating systems, iOS 17 & iOS 18 has captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 - iOS 17.5 & iOS 18.1 devices. This comprehensive guide delves into iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6, and 18 jailbreaks, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
+In the world of Apple's operating systems, iOS 17 & iOS 18 have captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 - iOS 17.5 & iOS 18.1 devices. This comprehensive guide delves into iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6, and 18 jailbreaks, discussing its advantages, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
 
 ##########################################
 OFFER ##########################################
@@ -38,6 +38,8 @@ You can stay updated with the latest Jailbreak updates by following us on Twitte
 ** According to [iOS 17.3 security information](https://support.apple.com/en-us/HT214059), a kernel-level issue may be used for jailbreaking, but we need to await confirmation.
 (Available for iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later)
 
+
+Apple is set to release iOS 18.2, followed by iOS 18.3, 18.4, and so on. Meanwhile, the Jailbreak community is actively working on their tools. Currently, the only functional Jailbreak tool for iPadOS 17 is Palera1n.
 
 ############## READ MORE ###############
 | [ How to Jailbreak iOS 15 - iOS 16.5.1 XinaM1ne Jailbreak tool](https://github.com/iOS17/Xinam1ne-Jailbreak/) |
