@@ -1,4 +1,4 @@
-# iOS 17 - 17.7, 18, 18.1 and its beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 18, iOS 17.6, 17.5, iOS 17.1, 17.2, 17.3)
+# iOS 17 - 17.7, 18, 18.1, 18.2 and its beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 18, iOS 17.6, 17.5, iOS 17.1, 17.2, 17.3)
 
 <meta name="google-site-verification" content="N5fkQW_mArfKg_c68CbB-YfIWX_Fts0dXkJkTQuKUoE" />
 **Exploring iOS 18, iOS 17, iOS 17.1, iOS 17.2, 17.3, 17.5, iOS 17.5.1, iOS 17.6 - iOS 17.7 (17.6.1) Jailbreak: Benefits, Status, Possibilities, and Future Impact**
@@ -20,7 +20,9 @@ OFFER ##########################################
 
 
 ### Latest Update:
+### Apple Releases First Betas of iOS 18.2 and More With Genmoji, Image Playground and ChatGPT Integration
 ### iOS 18.1 beta 4 is out to all iOS 18-supported devices!(Build 22B5045h)
+
 
 ![iOS beta 4 is out to all iOS 18-supported devices!(Build 22B5045h) How to Jailbreak? ](https://github.com/user-attachments/assets/6a660020-cc44-4968-bef4-6397c0e3a575)
 
