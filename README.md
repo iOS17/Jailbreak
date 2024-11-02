@@ -1,7 +1,7 @@
-# iOS 17 - 17.7, 18, 18.1, 18.2 and its beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 18, iOS 17.6, 17.5, iOS 17.1, 17.2, 17.3)
+# iOS 18, 18.1, 18.2, 17 - 17.7 and its beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 18, iOS 17.6, 17.5, iOS 17.1, 17.2, 17.3)
 
 <meta name="google-site-verification" content="N5fkQW_mArfKg_c68CbB-YfIWX_Fts0dXkJkTQuKUoE" />
-**Exploring iOS 18, iOS 17, iOS 17.1, iOS 17.2, 17.3, 17.5, iOS 17.5.1, iOS 17.6 - iOS 17.7 (17.6.1) Jailbreak: Benefits, Status, Possibilities, and Future Impact**
+**Exploring iOS 18 - 18.2, iOS 17, iOS 17.1, iOS 17.2, 17.3, 17.5, iOS 17.5.1, iOS 17.6 - iOS 17.7 (17.6.1) Jailbreak: Benefits, Status, Possibilities, and Future Impact**
 
 
 ![Jailbreak IOS 17 - 17.7, iOS 18.1 and its beta serotonin, Def1nit3lyN0tAJa1lbr3akTool, nako, Redensa, misaka, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n, Xinam1ne, Pangu](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
@@ -34,9 +34,12 @@ This means that the informed and experienced developer can get unauthorized read
 
 You can stay updated with the latest Jailbreak updates by following us on Twitter. - [Follow iOS 17 Jailbreak](https://twitter.com/JailbreakBuddy)
 
-[MisakaX customization tool for iOS 18.1 and iOS 17: No Jailbreak Needed!](https://github.com/iOS17/MisakaX)
-[Def1nit3lyN0tAJa1lbr3akTool Jailbreak Released for iOS 15.7 - iOS 16.6.1](https://zeejb.com/def1nit3lyn0taja1lbr3aktool-jailbreak-tool/)
-[iOS 17 - iOS 18 How to Sideload iPA file?](https://github.com/iOS17/sideloadly)
+-------------------------------------------------------------------------------------------------------------------------------------
+- [iOSGods world's most extensive third-party app store library - iOS 18 - iOS 15](https://github.com/iOS17/iOSGods/)
+- [MisakaX customization tool for iOS 18.1 and iOS 17: No Jailbreak Needed!](https://github.com/iOS17/MisakaX)
+- [Def1nit3lyN0tAJa1lbr3akTool Jailbreak Released for iOS 15.7 - iOS 16.6.1](https://zeejb.com/def1nit3lyn0taja1lbr3aktool-jailbreak-tool/)
+- [iOS 17 - iOS 18 How to Sideload iPA file?](https://github.com/iOS17/sideloadly)
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ![iOS 17.3 Jailbreak Status](https://github.com/iOS17/Jailbreak/assets/135683347/2588016d-df84-4140-b8ac-7d7ab2cf4988)
 ** According to [iOS 17.3 security information](https://support.apple.com/en-us/HT214059), a kernel-level issue may be used for jailbreaking, but we need to await confirmation.
