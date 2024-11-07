@@ -23,6 +23,8 @@ OFFER ##########################################
 ### Apple Releases First Betas of iOS 18.2 and More With Genmoji, Image Playground and ChatGPT Integration
 ### iOS 18.1 beta 4 is out to all iOS 18-supported devices!(Build 22B5045h)
 
+[The Complete guide to iOS 18 - 18.2 Jailbreak](https://github.com/iOS17/Jailbreak/wiki/iOS-18-Jailbreak-Tools) 
+
 
 ![iOS beta 4 is out to all iOS 18-supported devices!(Build 22B5045h) How to Jailbreak? ](https://github.com/user-attachments/assets/6a660020-cc44-4968-bef4-6397c0e3a575)
 
