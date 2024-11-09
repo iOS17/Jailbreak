@@ -7,41 +7,53 @@
 ![Jailbreak IOS 17 - 17.7, iOS 18.1 and its beta serotonin, Def1nit3lyN0tAJa1lbr3akTool, nako, Redensa, misaka, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n, Xinam1ne, Pangu](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
 
 ## Introduction:
-In the world of Apple's operating systems, iOS 17 & iOS 18 have captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 - iOS 17.7 & iOS 18.1 devices. This comprehensive guide delves into iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6,17.7 and 18 - 18.1 jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
+In the world of Apple's operating systems, iOS 17 & iOS 18 have captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 - iOS 17.7 & iOS 18.1 devices. This comprehensive guide delves into iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6,17.7 and 18 - 18.2 jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
 
 ##########################################
 OFFER ##########################################
-![Free Download Gbox Esign Certificates P12 for iOS 18 - iOSA 17.7 Sideloadling AppStore Alternative](https://github.com/iOS17/Jailbreak/assets/135683347/01246746-cc1c-4850-b040-ea071394760a)
+
+**Udidmaster's team offers you AppleP12 Developer and Distribute Certificates for a low price. You can use these certificate files to sign and install iPA files, and also those support the Esign iOS app, Gbox, Feather iOS, APPDB, Cripzi Signer, Sideloadly, and LightningSign like iPA signing tools.**
+
+![Free Download Gbox Esign Certificates P12 for iOS 18.2 - iOSA 17.7 Sideloadling AppStore Alternative](https://github.com/iOS17/Jailbreak/assets/135683347/01246746-cc1c-4850-b040-ea071394760a)
 
 ** [Download Free .p12 Certificates Now](https://esigncert.zeejb.com/) **
+
+With the Premium Certificates, you can sign unlimited  Tweaked iPA files, like Spotify++, YouTube Mod, Games Mods, and Much more. 
 
 #######################################################################################################
 
 
 
+
+
 ### Latest Update:
-### Apple Releases First Betas of iOS 18.2 and More With Genmoji, Image Playground and ChatGPT Integration
+### Apple Releases First Betas of iOS 18.2 and More With Genmoji, Image Playground, and ChatGPT Integration
 ### iOS 18.1 beta 4 is out to all iOS 18-supported devices!(Build 22B5045h)
 
-[The Complete guide to iOS 18 - 18.2 Jailbreak](https://github.com/iOS17/Jailbreak/wiki/iOS-18-Jailbreak-Tools) 
+[The Complete Guide to iOS 18 - 18.1, 18.2 Jailbreak](https://github.com/iOS17/Jailbreak/wiki/iOS-18-Jailbreak-Tools) 
 
 
 ![iOS beta 4 is out to all iOS 18-supported devices!(Build 22B5045h) How to Jailbreak? ](https://github.com/user-attachments/assets/6a660020-cc44-4968-bef4-6397c0e3a575)
 
-### iOS 17.7 Released (21H16)
 
+### iOS 17.7 Released (21H16)
 
 ** According to the [security information of iOS 17.1.2](https://support.apple.com/en-us/HT214031), two significant WebKit vulnerabilities could lead to arbitrary code execution.
 This means that the informed and experienced developer can get unauthorized read and write access to the afflicted system.
 
 You can stay updated with the latest Jailbreak updates by following us on Twitter. - [Follow iOS 17 Jailbreak](https://twitter.com/JailbreakBuddy)
 
+
+
 -------------------------------------------------------------------------------------------------------------------------------------
 - [iOSGods world's most extensive third-party app store library - iOS 18 - iOS 15](https://github.com/iOS17/iOSGods/)
 - [MisakaX customization tool for iOS 18.1 and iOS 17: No Jailbreak Needed!](https://github.com/iOS17/MisakaX)
 - [Def1nit3lyN0tAJa1lbr3akTool Jailbreak Released for iOS 15.7 - iOS 16.6.1](https://zeejb.com/def1nit3lyn0taja1lbr3aktool-jailbreak-tool/)
 - [iOS 17 - iOS 18 How to Sideload iPA file?](https://github.com/iOS17/sideloadly)
+- [Copy iPhone Images and Manage iPhone/iPad Device on a MAC, The 3uTools for Mac](https://github.com/iOS17/i4Tools)
 -------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 ![iOS 17.3 Jailbreak Status](https://github.com/iOS17/Jailbreak/assets/135683347/2588016d-df84-4140-b8ac-7d7ab2cf4988)
 ** According to [iOS 17.3 security information](https://support.apple.com/en-us/HT214059), a kernel-level issue may be used for jailbreaking, but we need to await confirmation.
