@@ -1,24 +1,24 @@
-# iOS 18, 18.1, 18.2, 17 - 17.7 and its beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 18, iOS 17.6, 17.5, iOS 17.1, 17.2, 17.3)
+# iOS 18, 18.1, 18.2, 18.3 17 - 17.7.2 and its beta Verified Jailbreak Tools, Download, Status & Solutions(iOS 17.1, 17.2, 17.3, 17.4, 17.5, 17.6, 17.7)
 
-<meta name="google-site-verification" content="N5fkQW_mArfKg_c68CbB-YfIWX_Fts0dXkJkTQuKUoE" />
-**Exploring iOS 18 - 18.2, iOS 17, iOS 17.1, iOS 17.2, 17.3, 17.5, iOS 17.5.1, iOS 17.6 - iOS 17.7 (17.6.1) Jailbreak: Benefits, Status, Possibilities, and Future Impact**
+<meta name="google-site-verification" content="N5fkQW_mArfKg_c68CbB-YfIWX_Fts0dXkJkTQuKUoE"/>
+**Exploring iOS 18 - 18.4 beta 1 & iOS 17 - 17.7.2 Jailbreak: Benefits, Status, Possibilities, and Future Impact**
 
 
-![Jailbreak IOS 17 - 17.7, iOS 18.1 and its beta serotonin, Def1nit3lyN0tAJa1lbr3akTool, nako, Redensa, misaka, Palera1n, unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n, Xinam1ne, Pangu](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
+![Jailbreak IOS 17 - 17.7.2, iOS 18 - 18.4 and its beta Palera1n, serotonin, Def1nit3lyN0tAJa1lbr3akTool, nako, Redensa, misaka, , unc0ver, chimera, checkm8, taurine, dopamine, xina17, xina, checkra1n, Xinam1ne, Pangu](https://github.com/iOS17/Jailbreak/assets/135683347/040ad272-8b9b-4eef-95f0-90d53217ef6b)
 
 ## Introduction:
-In the world of Apple's operating systems, iOS 17 & iOS 18 have captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 - iOS 17.7 & iOS 18.1 devices. This comprehensive guide delves into iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6,17.7 and 18 - 18.2 jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
+In the world of Apple's operating systems, iOS 17 & iOS 18 have captured the attention of tech enthusiasts. Alongside its innovative features, users are curious about the possibilities and benefits of jailbreaking their iOS 17 - iOS 17.7.2 & iOS 18.4 beta devices. This comprehensive guide will drive you into iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6, 17.7, and 18 - 18.2 & 18.4 beta jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs. Let's embark on this exciting journey!
 
 ##########################################
 OFFER ##########################################
 
 **Udidmaster's team offers you AppleP12 Developer and Distribute Certificates for a low price. You can use these certificate files to sign and install iPA files, and also those support the Esign iOS app, Gbox, Feather iOS, APPDB, Cripzi Signer, Sideloadly, and LightningSign like iPA signing tools.**
 
-![Free Download Gbox Esign Certificates P12 for iOS 18.2 - iOSA 17.7 Sideloadling AppStore Alternative](https://github.com/iOS17/Jailbreak/assets/135683347/01246746-cc1c-4850-b040-ea071394760a)
+![Free Download Gbox Esign Certificates P12 for iOS 18.4 - iOSA 17.7 Sideloadling AppStore Alternative](https://github.com/iOS17/Jailbreak/assets/135683347/01246746-cc1c-4850-b040-ea071394760a)
 
 ** [Download Free .p12 Certificates Now](https://esigncert.zeejb.com/) **
 
-With the Premium Certificates, you can sign unlimited  Tweaked iPA files, like Spotify++, YouTube Mod, Games Mods, and Much more. 
+With the Premium Certificates, you can sign unlimited Tweaked iPA files, like Spotify++, YouTube Mod, Games Mods, Jailbreaks, and Much more. 
 
 #######################################################################################################
 
@@ -27,16 +27,16 @@ With the Premium Certificates, you can sign unlimited  Tweaked iPA files, like S
 
 
 ### Latest Update:
-### Apple Releases First Betas of iOS 18.2 and More With Genmoji, Image Playground, and ChatGPT Integration
-### iOS 18.1 beta 4 is out to all iOS 18-supported devices!(Build 22B5045h)
+### Apple Releases First Betas of iOS 18.4 and More With Priority Notifications as part of Apple Intelligence, New Image Playground style, Photos app now features a new interface for editing, Etc...
+### iOS 18.3 is out to all iOS 18-supported devices!(Build 22D8075)
 
-[The Complete Guide to iOS 18 - 18.1, 18.2 Jailbreak](https://github.com/iOS17/Jailbreak/wiki/iOS-18-Jailbreak-Tools) 
-
-
-![iOS beta 4 is out to all iOS 18-supported devices!(Build 22B5045h) How to Jailbreak? ](https://github.com/user-attachments/assets/6a660020-cc44-4968-bef4-6397c0e3a575)
+[The Complete Guide to iOS 18 - 18.1, 18.2, 18.4 Jailbreak](https://github.com/iOS17/Jailbreak/wiki/iOS-18-Jailbreak-Tools) 
 
 
-### iOS 17.7 Released (21H16)
+![iOS 18.4 beta 4 is out to all iOS 18-supported devices!(Build 22B5045h) How to Jailbreak? ](https://github.com/user-attachments/assets/6a660020-cc44-4968-bef4-6397c0e3a575)
+
+
+### iOS 17.7.2 Released (21H221)
 
 ** According to the [security information of iOS 17.1.2](https://support.apple.com/en-us/HT214031), two significant WebKit vulnerabilities could lead to arbitrary code execution.
 This means that the informed and experienced developer can get unauthorized read and write access to the afflicted system.
@@ -46,6 +46,7 @@ You can stay updated with the latest Jailbreak updates by following us on Twitte
 
 
 -------------------------------------------------------------------------------------------------------------------------------------
+- [Learn More about how to jailbreak iOS 18.4 beta 4 ](https://kekuk.com/how-to-jailbreak-ios-18-4/)
 - [iOSGods world's most extensive third-party app store library - iOS 18 - iOS 15](https://github.com/iOS17/iOSGods/)
 - [MisakaX customization tool for iOS 18.1 and iOS 17: No Jailbreak Needed!](https://github.com/iOS17/MisakaX)
 - [Def1nit3lyN0tAJa1lbr3akTool Jailbreak Released for iOS 15.7 - iOS 16.6.1](https://zeejb.com/def1nit3lyn0taja1lbr3aktool-jailbreak-tool/)
