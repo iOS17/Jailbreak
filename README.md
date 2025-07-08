@@ -14,13 +14,13 @@ Apple released its latest iOS 26; along with that, iOS 18.5 beta 4 is available 
 This comprehensive guide is based on our research data about iOS versions. It will drive you into iOS 26, iOS 18.5, iOS 17.7.2 ( iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6 -  iOS 18, iOS 18.1, 18.2, 18.3, 18.4) & beta jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs.
 
 ################# OFFER #################
-**Udidmaster's team offers you Apple P12 Developer and Distribute Certificates at a low price. ** You can use these certificate files to sign and install IPA files, and also those that support the Esign iOS app, Gbox, Feather iOS, APPDB, Cripzi Signer, Sideloadly, AltSote, Kawa Signer, and LightningSign, like IPA signing tools.**
+>**Udidmaster's team offers you Apple P12 Developer and Distribution Certificates at a low price. ** You can use these certificate files to sign and install IPA files, and also those that support the Esign iOS app, Gbox, Feather iOS, APPDB, Cripzi Signer, Sideloadly, AltSote, Kawa Signer, and LightningSign, like IPA signing tools.**
 
-![Free Download Gbox Esign Certificates P12 for iOS 18.4 - iOSA 17.7, iOS 26 Sideloadling AppStore Alternative](https://github.com/iOS17/Jailbreak/assets/135683347/01246746-cc1c-4850-b040-ea071394760a)
+![Free Download Gbox Esign Certificates P12 for iOS 26, 18.6 - iOSA 17.7, iOS 26 Sideloadling AppStore Alternative](https://github.com/iOS17/Jailbreak/assets/135683347/01246746-cc1c-4850-b040-ea071394760a)
 
 ** [Download Free .p12 Certificates Now](https://esigncert.zeejb.com/) **
 
-With the Premium AppleP12 Certificates, you can sign unlimited Tweaked iPA files, like Jodel++, Spotify++, Twitter++, YouTube Mod, Games Mods, Jailbreaks, and much more.
+With the Premium AppleP12 Certificates, you can sign unlimited Tweaked IPA files, like Jodel++, Spotify++, Twitter++, YouTube Mod, Games Mods, Jailbreaks, and much more.
 Learn More: - [Esign iOS app complete review (How to install Esign)](https://zeejb.com/esign-app/)
 
 If your device is running on Old iOS versions, such as iOS 17 or iOS 18. Do you need to upgrade the[ iOS 26 beta- UIDimaster Certificate to join their developer team.](https://udidmaster.com/)
@@ -32,14 +32,11 @@ If your device is running on Old iOS versions, such as iOS 17 or iOS 18. Do you 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Latest Update:
-- 26.0 beta two has been released to developers. (The first iOS version to use Apple's new year-based versioning scheme)
+- 26.0 beta two has been released to developers. (The first iOS version to use Apple's new year-based versioning scheme) -[ How to Jailbreak iOS 26 Beta](https://github.com/iOS17/Jailbreak-iOS-26)
 - 18.6 beta 1 Released. (Added the capability for Visual Intelligence and More)
 - 17.7.2 Released.
 
-The Complete Guide to iOS 18 - 18.1, 18.2, 18.4, 18.4.1, 18.5, 18.6 Jailbreak
-
-
-![iOS 18.4 beta 4 is out to all iOS 18-supported devices!(Build 22B5045h) How to Jailbreak? ](https://github.com/user-attachments/assets/6a660020-cc44-4968-bef4-6397c0e3a575)
+The Complete Guide to iOS 26, 18 - 18.1, 18.2, 18.4, 18.4.1, 18.5, 18.6 Jailbreak
 
 
 You can stay updated with the latest Jailbreak updates by following us on Twitter. - [Follow iOS 17 Jailbreak](https://twitter.com/JailbreakBuddy)
