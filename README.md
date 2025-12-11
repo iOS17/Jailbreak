@@ -9,11 +9,24 @@ Updated iOS 26.1 - iOS 18, 18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 18.7. - iOS 17 Ja
 
 
 ## iOS 26.1 beta 4 - iOS 18.7.1 - iOS 17.7.10 Jailbreak Guide Introduction:
-Apple has released its latest iOS 26.1 beta 1, along with iOS 18.7.1, which is now available for developers. IOS 26, Apple includes innovative features; users are curious about the possibilities and benefits of jailbreaking their iOS 26 devices, including iOS 17.7.10 and iOS 18.7.1 
+Apple has released iOS 26.1 beta 1 and iOS 18.7.1, now available to developers. IOS 26, Apple includes innovative features; users are curious about the possibilities and benefits of jailbreaking their iOS 26 devices, including iOS 17.7.10 and iOS 18.7.1 
 
 This comprehensive guide is based on our research data about iOS versions. It will drive you into iOS 26.1, iOS 18.5, iOS 17.7.2 ( iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6 -  iOS 18, iOS 18.1, 18.2, 18.3, 18.4, 18.5, 18.6.1) & beta jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Community-Created Solutions for iOS Jailbreaking:
+
+- iOS 14 - iOS 18.7.3/iOS 26.2 RC - [Jailbreak Tweak Master  ](https://udidmaster.com/pro/install.php)
+- iOS 15 - iOS 18.7.3/iOS 26.2 RC - [Terminal Jailbreak Tool](https://zeejb.com/updates/terminal-jailbreak-tool/)(Jailbreak Repo Extractor)
+- iOS 15 - iOS 17 & Up - [Misaka iOS](https://github.com/iOS17/MisakaX) & tvOS customisation tool for KFD & MDC
+- iOS 14.0-16.1.2 (excluding 15.7.2) - [MacDirtyCow](https://github.com/topics/macdirtycow)
+- iOS 14 - iOS 17.0 (Excluding iOS 17.0.1)  - [TrollStore](https://github.com/iOS17/TrollStore) Permanently sign and install any application
+- iOS 16 - iOS 26.2 RC - [Ksign iOS](https://github.com/iOS17/Ksign-iOS)([Ksign Patcher](https://zeejb.com/updates/ksign-ios/) for Online Install)
+
+
+
+
+
 
 ### Latest Update:
 - 26.1 beta 3 has been released to developers. (The first iOS version to use Apple's new year-based versioning scheme) -[ How to Jailbreak iOS 26 Beta 4](https://github.com/iOS17/Jailbreak-iOS-26)
