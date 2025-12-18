@@ -18,6 +18,7 @@ This comprehensive guide is based on our research data about iOS versions. It wi
 ## Community-Created Solutions for iOS Jailbreaking:
 
 - iOS 14 - iOS 18.7.3/iOS 26.2 RC - [Jailbreak Tweak Master  ](https://udidmaster.com/pro/install.php)
+- iOS 26.2 - iOS 11 Jailbreak AppStore(unc0ver, TrollStore, MisakaX, Redensa, Zjailbreak, More..) - [ZEE Jailbreak Store](https://zeejb.com/store/)
 - iOS 15 - iOS 18.7.3/iOS 26.2 RC - [Terminal Jailbreak Tool](https://zeejb.com/updates/terminal-jailbreak-tool/)(Jailbreak Repo Extractor)
 - iOS 15 - iOS 17 & Up - [Misaka iOS](https://github.com/iOS17/MisakaX) & tvOS customisation tool for KFD & MDC
 - iOS 14.0-16.1.2 (excluding 15.7.2) - [MacDirtyCow](https://github.com/topics/macdirtycow)
