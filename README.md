@@ -1,6 +1,6 @@
 # iOS 26.2 RC - iOS 18.7.3 & iOS 17.7.7, iOS 16.7.12 Verified Jailbreak Tools, Download, Reviews & Jailbreak Solutions - (iOS 18.1 - iOS 18.8)
 
-Updated iOS 26.1 - iOS 18, 18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 18.7.3 - iOS 17 Jailbreak Methods, Benefits, Status, and Jailbreak Solutions Research Data.
+Updated iOS 26.2, iOS 26.1 - iOS 18, 18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 18.7.3 - iOS 17 Jailbreak Methods, Benefits, Status, and Jailbreak Solutions Research Data.
 
 <meta name="google-site-verification" content="N5fkQW_mArfKg_c68CbB-YfIWX_Fts0dXkJkTQuKUoE"/>
 
@@ -53,13 +53,51 @@ You can stay updated with the latest Jailbreak updates by following us on Twitte
 - [Copy iPhone Images and Manage iPhone/iPad Device on a MAC, The 3uTools for Mac iOS 26.3](https://github.com/iOS17/i4Tools)
 -------------------------------------------------------------------------------------------------------------------------------------
 
+Updated 2025 DEC
 
-## iOS 26 Jailbreak Status:
+## iOS 26 - iOS 26.2 beta Jailbreak Status:
 
+About the security content of iOS 26.2 and iPadOS 26.2
+<img width="1632" height="514" alt=" iOS 26.2 and iPadOS 26.2 Jailbreak Status" src="https://github.com/user-attachments/assets/ceae6ba4-795b-41d3-ba70-3ae73a5900b3" />
+
+According to the security content from Apple for iOS 16.2 and iPadOS 16.2, a vulnerability has been identified that impacts the following devices: iPhone 11 and later, iPad Pro 12.9-inch (3rd generation) and later, iPad Pro 11-inch (1st generation) and later, iPad Air (3rd generation) and later, iPad (8th generation) and later, as well as iPad mini (5th generation) and later. 
+**Impact:** A malicious app could potentially gain root privileges. 
+**Description:** This issue, an integer overflow, has been addressed by the implementation of 64-bit timestamps.
+
+### Current Compatibility of Jailbreak Tools for iOS 26 - iOS 26.2
+
+| Jailbreak Tool     | Compatible with iOS 26 - iOS 26.2? | Notes |
+|--------------------|------------------------------|-------|
+| unc0ver jailbreak  | No                           | unc0ver native support ends before iOS 15–26.2 era (“unsupported” for iOS 26.2)  |
+| Odyssey Jailbreak  | No                           | Odyssey has no released support for iOS 26.1+  |
+| Chimera            | No                           | Chimera only supports older versions far below iOS 16  |
+| Xina15             | No                           | XinaA15 jailbreak stops at earlier iOS versions (pre-16)  |
+| Palera1n           | Yes (very limited)           | Works for certain older devices (A11 and below) on iOS 15 – 17.7(iOS 26 Limited) via Checkm8 exploit; not full modern support  |
+| Checkra1n          | No                           | Checkra1n classic jailbreak does *not* support iOS 26.2; limited/virtual options exist but no native support  |
+
+### Current Compatibility of Jailbreak Solutions Tools for iOS 26 - iOS 26.2 
+
+| Jailbreak Solutions Tool     | Compatible with iOS 26 - iOS 26.2? | Notes |
+|--------------------|------------------------------|-------|
+| Jailbreak Tweak Master  | Yes ✅                           | Version 3.4.2 is supported for iOS 26.2 and below. It may be possible to install Cydia Lite and Sileo Lite package managers.|
+| ZeeStore  | Yes ✅                           | Newly released iOS jailbreak solution tool may allow users to install unc0ver dark, Misakax, Misaka26, Cydia, Sileo package managers, and Live Container (live support).  |
+| Terminal Jailbreak Tool            | Yes ✅                           | Another jailbreak solution tool supports iOS 16.2 and below. Users can install jailbreak-like tweaks, icons, and home screen customizations, as well as repositories.  |
+| misaka26             | 26.1 Yes ✅ / 26.2 NO ❌                        | misaka26. An ultimate customization tool, utilizing the bug that makes TrollRestore possible. iOS /iPadOS 16.0 - 26.1 & 26.2 beta 1. Supported iOS 16.0 ~ 26.1  |
+
+
+
+### iOS 18.7.3 - iOS 18 Jailbreak Status:
+
+### iOS 17.7.13 - iOS 17 Jailbreak Status:
 
 ![iOS 17.7.13 Jailbreak Status](https://github.com/iOS17/Jailbreak/assets/135683347/2588016d-df84-4140-b8ac-7d7ab2cf4988)
 **According to iOS 17.7.13 security information ** ([https://support.apple.com/en-us/HT214059](https://support.apple.com/en-us/HT214059)), a kernel-level issue may be used for jailbreaking, but confirmation is pending.
 (Available for iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later)
+
+## iOS 16.7.12 - iOS 16 Jailbreak Status:
+
+
+
 
 
 
