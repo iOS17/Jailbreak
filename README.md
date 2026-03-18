@@ -15,6 +15,18 @@ Apple has released iOS 26.4 beta 2, iOS 26.3, and iOS 18.7.5, now available to d
 This comprehensive guide is based on our research data about iOS versions. It will drive you into iOS 26.4 beta 4 (26.1, iOS 26.2, 26.3), iOS 18.7.5, iOS 17.7.2 (iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6 -  iOS 18, iOS 18.1, 18.2, 18.3, 18.4, 18.5, 18.6.1) & beta jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Coruna Exploit  - iOS 15 - iOS 17.2.1
+
+The Coruna Jailbreak Exploit is a major attack targeting Apple devices running iOS 13.0 and earlier by exploiting zero-day vulnerabilities. Google’s Threat Intelligence Group discovered this exploit, and it was fixed in iOS 17.3, released on January 22, 2024.
+
+Coruna Jailbreak is a webkit-based tool that runs directly in iOS Safari. After running the jailbreak, you can customize your device without needing a PC or a traditional IPA signer to install and use it.
+
+Right now, Coruna works well on iOS 15 through iOS 17.2. You can try installing it here: [https://coruna.app](https://coruna.app)
+
+### What Coruna Can do:
+
+At the moment, it can inject Cydia Sileo tweaks like Cylinder and customize your home and lock screens without needing a package manager.
+
 ## Community-Created Solutions for iOS Jailbreaking:
 
 - iOS 14 - iOS 18.7.3/iOS 26.3 beta 2(iOS 26.2.1) - [Jailbreak Tweak Master  ](https://udidmaster.com/pro/install.php)
