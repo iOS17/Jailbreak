@@ -15,7 +15,28 @@ Apple has released iOS 26.5 beta 2, iOS 26.4, and iOS 18.7.7, now available to d
 This comprehensive guide is based on our research data about iOS versions. It will drive you into iOS 26.5 beta 2 (26.1, iOS 26.2, 26.3, 26.4), iOS 18.7.7, iOS 17.7.2 (iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6 -  iOS 18, iOS 18.1, 18.2, 18.3, 18.4, 18.5, 18.6.1) & beta jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Coruna Exploit  - iOS 15 - iOS 17.2.1
+## DarkSword Exploit: iOS 17.2 - iOS 26.4
+
+DarkSword is a highly sophisticated iOS full-chain exploit kit discovered in March 2026, targeting iPhones running iOS 18.4 through 18.7. It uses six different vulnerabilities to break out of the Safari sandbox and gain kernel read/write access. Because DarkSword provides kernel-level access, jailbreak community developers gain valuable tools. As a result, the DarkSword kernel exploit is being integrated into tools like the Dopamine jailbreak to support newer iOS versions.  
+But unfortunately, the full jailbreak for modern devices still requires a PPL/SPTM bypass, which is not yet publicly available for these specific versions. 
+
+Fortunately, developer @X Little_34306 has found a way to install the Filza file manager on iDevices using this exploit, so if your device is running iOS 17.0-26.0, you can try installing the Filza Jailed app.
+
+Filza Jailed Darksword, support iOS 17.0 - 26.0.1 (except 18.7.2 - 18.7.7). This repo opens up the tweak injection into the Filza iPA (4.0.0 and back, 4.0.2 seems to crash something)
+
+### How to install Filza Jailed:
+
+- Step 01: Navigate to http://34306.lol/darksword/
+- Step 02: [https://ipa.zeejb.com](Download Filza IPA file)
+
+- &[ Copy token shortcut above](https://www.icloud.com/shortcuts/3e90b09cd789488fa4f87a471284f544)
+Step 2: Tap Run Exploit and wait ~60s (web may freeze/crash/reload near the end, that means done)
+Step 3: Open the Shortcuts app, run the "Copy token" shortcut
+Step 4: Paste the token in Filza
+
+
+ 
+## Coruna Exploit: iOS 15 - iOS 17.2.1
 
 The Coruna Jailbreak Exploit is a major attack targeting Apple devices running iOS 13.0 and earlier by exploiting zero-day vulnerabilities. Google’s Threat Intelligence Group discovered this exploit, and it was fixed in iOS 17.3, released on January 22, 2024.
 
