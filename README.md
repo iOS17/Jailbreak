@@ -1,18 +1,18 @@
-# iOS 26.4 beta 2, iOS 26.3, iOS 26.2 - iOS 18.7.5 & iOS 17.7.2, iOS 16.7.14 Verified Jailbreak Tools, Download, Reviews & Jailbreak Solutions - (iOS 18.1 - iOS 18.8)
+# iOS 26.5 beta, iOS 26.4.1, iOS 26.3, 26.2 - iOS 18.7.7 & iOS 17.7.2, iOS 16.7.15 Verified Jailbreak Tools, Download, Reviews & Jailbreak Solutions - (iOS 18.1 - iOS 18.8)
 
-Updated iOS 26.4 beta 2, iOS 26.3, iOS 26.2, iOS 26.1 - iOS 18, 18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 18.7.5 - iOS 17 Jailbreak Methods, Benefits, Status, and Jailbreak Solutions Research Data.
+Updated iOS 26.5 beta 2, iOS 26.4/26.3, iOS 26.2, iOS 26.1 - iOS 18, 18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 18.7.5 - iOS 17 Jailbreak Methods, Benefits, Status, and Jailbreak Solutions Research Data.
 
 <meta name="google-site-verification" content="N5fkQW_mArfKg_c68CbB-YfIWX_Fts0dXkJkTQuKUoE"/>
 
-![Jailbreak iOS 26.4 beta 2, iOS  26.3, iOS 26.2, iOS 18, 18.1,18.2,18.3, 18.4, 18.5, 18.7.5 Online - How to Jailbreak 17.8, 16.7.12, 15.8](https://github.com/user-attachments/assets/942ef641-e611-4c6b-a32b-ad8fe61a20d6)
+![Jailbreak iOS 26.5 beta 2, iOS 26.4, 26.3, iOS 26.2, iOS 18, 18.1,18.2,18.3, 18.4, 18.5, 18.7.7 Online - How to Jailbreak 17.8, 16.7.12, 15.8.7](https://github.com/user-attachments/assets/942ef641-e611-4c6b-a32b-ad8fe61a20d6)
 
 
 
-## iOS 26.4 beta 4 / iOS 26.3 - iOS 18.7.5 - iOS 17.7.12 Jailbreak Guide Introduction:
+## iOS 26.5 beta 2 / iOS 26.4, iOS 26.4 - iOS 18.7.5 - iOS 17.7.15 Jailbreak Guide Introduction:
 
-Apple has released iOS 26.4 beta 2, iOS 26.3, and iOS 18.7.5, now available to developers. IOS 26, Apple includes innovative features; users are curious about the possibilities and benefits of jailbreaking their iOS 26 devices, including iOS 17.7.2 and iOS 18.7.5 
+Apple has released iOS 26.5 beta 2, iOS 26.4, and iOS 18.7.7, now available to developers. IOS 26, Apple includes innovative features; users are curious about the possibilities and benefits of jailbreaking their iOS 26 devices, including iOS 17.7.5 and iOS 18.7.5 
 
-This comprehensive guide is based on our research data about iOS versions. It will drive you into iOS 26.4 beta 4 (26.1, iOS 26.2, 26.3), iOS 18.7.5, iOS 17.7.2 (iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6 -  iOS 18, iOS 18.1, 18.2, 18.3, 18.4, 18.5, 18.6.1) & beta jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs.
+This comprehensive guide is based on our research data about iOS versions. It will drive you into iOS 26.5 beta 2 (26.1, iOS 26.2, 26.3, 26.4), iOS 18.7.7, iOS 17.7.2 (iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6 -  iOS 18, iOS 18.1, 18.2, 18.3, 18.4, 18.5, 18.6.1) & beta jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Coruna Exploit  - iOS 15 - iOS 17.2.1
