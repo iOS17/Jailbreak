@@ -27,9 +27,9 @@ Filza Jailed Darksword, support iOS 17.0 - 26.0.1 (except 18.7.2 - 18.7.7). This
 ### How to install Filza Jailed:
 
 - Step 01: Navigate to http://34306.lol/darksword/
-- Step 02: [https://ipa.zeejb.com](Download Filza IPA file)
+- Step 02: [Download Filza IPA file](https://ipa.zeejb.com)
 
-- &[ Copy token shortcut above](https://www.icloud.com/shortcuts/3e90b09cd789488fa4f87a471284f544)
+- & [ Copy token shortcut above](https://www.icloud.com/shortcuts/3e90b09cd789488fa4f87a471284f544)
 Step 2: Tap Run Exploit and wait ~60s (web may freeze/crash/reload near the end, that means done)
 Step 3: Open the Shortcuts app, run the "Copy token" shortcut
 Step 4: Paste the token in Filza
