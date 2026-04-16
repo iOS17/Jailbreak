@@ -121,21 +121,25 @@ According to the security content from Apple for iOS 16.2 and iPadOS 16.2, a vul
 
 
 
-### iOS 18.7.5 - iOS 18 Jailbreak Status:
+### iOS 18.7.7 - iOS 18 Jailbreak Status:
 
-### iOS 17.7.13 - iOS 17 Jailbreak Status:
+Apple released an emergency security update, iOS 18.7.7, to patch a series of WebKit security issues known as "DARKSWORD". That means the DARKSWORD exploit is working well on earlier versions of iOS 18 - iOS 18.7.6. The Jailbreak community has created several tools that can customize iOS devices and read and write kernel memory.  
 
-![iOS 17.7.13 Jailbreak Status](https://github.com/iOS17/Jailbreak/assets/135683347/2588016d-df84-4140-b8ac-7d7ab2cf4988)
-**According to iOS 17.7.13 security information ** ([https://support.apple.com/en-us/HT214059](https://support.apple.com/en-us/HT214059)), a kernel-level issue may be used for jailbreaking, but confirmation is pending.
+iOS 18.7.6 - 18 Jailbreak Tools:
+- [FilzaEscapped](http://www.filzaescape.com/)
+- [Ziguza Jailbreak](https://ziguza.com/)
+- Deb Injector
+- [Cydia Reborn](https://cydiahack.com/)
+- [Coruna Jailbreak](https://coruna.app/)
+- [Json Injector](https://kekuk.com/package/json/)
+
+### iOS 17.7.2 - iOS 17 Jailbreak Status:
+
+![iOS 17.7.2 Jailbreak Status](https://github.com/iOS17/Jailbreak/assets/135683347/2588016d-df84-4140-b8ac-7d7ab2cf4988)
+**According to iOS 17.7.2 security information ** ([https://support.apple.com/en-us/HT214059](https://support.apple.com/en-us/HT214059)), a kernel-level issue may be used for jailbreaking, but confirmation is pending.
 (Available for iPhone XS and later, iPad Pro 12.9-inch 2nd generation and later, iPad Pro 10.5-inch, iPad Pro 11-inch 1st generation and later, iPad Air 3rd generation and later, iPad 6th generation and later, and iPad mini 5th generation and later)
 
-## iOS 16.7.12 - iOS 16 Jailbreak Status:
-
-
-
-
-
-
+## iOS 16.7.15 - iOS 16 Jailbreak Status:
 
 ############## READ MORE ###############
 | [ How to Jailbreak iOS 15 - iOS 16.5.1 XinaM1ne Jailbreak tool](https://github.com/iOS17/Xinam1ne-Jailbreak/) |
