@@ -14,6 +14,16 @@ Apple has released iOS 26.5 beta 2, iOS 26.4, and iOS 18.7.7, now available to d
 
 This comprehensive guide is based on our research data about iOS versions. It will drive you into iOS 26.5 beta 2 (26.1, iOS 26.2, 26.3, 26.4), iOS 18.7.7, iOS 17.7.2 (iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6 -  iOS 18, iOS 18.1, 18.2, 18.3, 18.4, 18.5, 18.6.1) & beta jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs.
 
+## Community-Created Solutions for iOS Jailbreaking:
+
+- iOS 14 - iOS 18.7.3/iOS 26.5 beta 3(iOS 26.2.1) - [Jailbreak Tweak Master  ](https://udidmaster.com/pro/install.php)
+- iOS 26.2.1 - iOS 11 Jailbreak AppStore (unc0ver, TrollStore, MisakaX, Redensa, Zjailbreak, More..) - [ZEE Jailbreak Store](https://zeejb.com/store/)
+- iOS 15 - iOS 18.7.3/iOS 26.2.1 - [Terminal Jailbreak Tool](https://zeejb.com/updates/terminal-jailbreak-tool/)(Jailbreak Repo Extractor)
+- iOS 15 - iOS 17 & Up - [Misaka iOS](https://github.com/iOS17/MisakaX) & tvOS customisation tool for KFD & MDC
+- iOS 14.0 - 16.1.2 (excluding 15.7.2) - [MacDirtyCow](https://github.com/topics/macdirtycow)
+- iOS 14 - iOS 17.0 (Excluding iOS 17.0.1)  - [TrollStore](https://github.com/iOS17/TrollStore) Permanently sign and install any application
+- iOS 16 - iOS 26.2 RC - [Ksign iOS](https://github.com/iOS17/Ksign-iOS)([Ksign Patcher](https://zeejb.com/updates/ksign-ios/) for Online Install)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DarkSword Exploit: iOS 17.2 - iOS 26.4
 
@@ -47,19 +57,6 @@ Right now, Coruna works well on iOS 15 through iOS 17.2. You can try installing 
 ### What Coruna Can do:
 
 At the moment, it can inject Cydia Sileo tweaks like Cylinder and customize your home and lock screens without needing a package manager.
-
-## Community-Created Solutions for iOS Jailbreaking:
-
-- iOS 14 - iOS 18.7.3/iOS 26.3 beta 2(iOS 26.2.1) - [Jailbreak Tweak Master  ](https://udidmaster.com/pro/install.php)
-- iOS 26.2.1 - iOS 11 Jailbreak AppStore (unc0ver, TrollStore, MisakaX, Redensa, Zjailbreak, More..) - [ZEE Jailbreak Store](https://zeejb.com/store/)
-- iOS 15 - iOS 18.7.3/iOS 26.2.1 - [Terminal Jailbreak Tool](https://zeejb.com/updates/terminal-jailbreak-tool/)(Jailbreak Repo Extractor)
-- iOS 15 - iOS 17 & Up - [Misaka iOS](https://github.com/iOS17/MisakaX) & tvOS customisation tool for KFD & MDC
-- iOS 14.0 - 16.1.2 (excluding 15.7.2) - [MacDirtyCow](https://github.com/topics/macdirtycow)
-- iOS 14 - iOS 17.0 (Excluding iOS 17.0.1)  - [TrollStore](https://github.com/iOS17/TrollStore) Permanently sign and install any application
-- iOS 16 - iOS 26.2 RC - [Ksign iOS](https://github.com/iOS17/Ksign-iOS)([Ksign Patcher](https://zeejb.com/updates/ksign-ios/) for Online Install)
-
-
-
 
 
 
