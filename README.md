@@ -6,25 +6,28 @@
 
 ![iOS 27 Beta 1 Jailbreak Status, iOS 26.5, iOS 26.4, iOS 18.7, iOS 17.7.14 Online Solutions Guide](https://github.com/user-attachments/assets/942ef641-e611-4c6b-a32b-ad8fe61a20d6)
 
-## iOS 27 Beta 1 / iOS 26.5 / iOS 26.4 Jailbreak Status & Research Data
+## iOS 27 Beta 1 / iOS 26.5.1 / iOS 18.7.9 / iOS 17.7.2 Jailbreak Status & Research Data
 
 ### Introduction
-Following Apple's WWDC 2026 keynote, the first **iOS 27 Beta 1** developer preview has officially been released. Packed with new "Siri AI" capabilities and Liquid Glass design refinements, users are already looking into the possibilities of customizing and jailbreaking iOS 27. This comprehensive compatibility guide tracks exploit discoveries, kernel vulnerabilities, and jailbreak solutions across iOS 27 Beta down to iOS 17 and iOS 16.
+Following Apple's WWDC 2026 keynote, the first **iOS 27 Beta 1** developer preview has officially been released. Packed with new "Siri AI" capabilities and Liquid Glass design refinements, iOS 27 is already prompting users to explore the possibilities of customizing and jailbreaking. This comprehensive compatibility guide tracks exploit discoveries, kernel vulnerabilities, and jailbreak solutions across iOS 27 Beta, iOS 17, and iOS 16.
 
 
-## iOS 26.5 beta 2 / iOS 26.4, iOS 26.4 - iOS 18.7.5 - iOS 17.7.15 Jailbreak Guide Introduction:
+## iOS 27 beta 1 / 26.6 beta 1 - iOS 18.7.9 - 17.7.2(16.7.16) Jailbreak Guide Introduction:
 
-Apple has released iOS 26.5 beta 2, iOS 26.4, and iOS 18.7.7, now available to developers. IOS 26, Apple includes innovative features; users are curious about the possibilities and benefits of jailbreaking their iOS 26 devices, including iOS 17.7.5 and iOS 18.7.5 
+Apple has released iOS 27 beta 1, iOS 26.6, iOS 18.7.9, and iOS 16.7.16, now available to developers. With iOS 26, Apple includes innovative features; 
 
-This comprehensive guide is based on our research data about iOS versions. It will drive you into iOS 26.5 beta 2 (26.1, iOS 26.2, 26.3, 26.4), iOS 18.7.7, iOS 17.7.2 (iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6 -  iOS 18, iOS 18.1, 18.2, 18.3, 18.4, 18.5, 18.6.1) & beta jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs.
+This comprehensive guide is based on our research data about iOS versions. It will drive you into iOS 27 beata 1, iOS 26.5 (26.1, iOS 26.2, 26.3, 26.4), iOS 18.7.9, iOS 17.7.2 (iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6 -  iOS 18, iOS 18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 18.7.2) & beta jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs.
 
 ## Community-Created Solutions & Customization Tools:
-- **iOS 15 - iOS 27 Beta 1 Compatibility Tracking**
-- [Jailbreak Tweak Master](https://udidmaster.com/pro/install.php) — iOS 26.5 to iOS 27 Beta status updates.
 
-- iOS 14 - iOS 18.7.3/iOS 26.5 beta 3(iOS 26.2.1) - [Jailbreak Tweak Master  ](https://udidmaster.com/pro/install.php)
-- iOS 26.2.1 - iOS 11 Jailbreak AppStore (unc0ver, TrollStore, MisakaX, Redensa, Zjailbreak, More..) - [ZEE Jailbreak Store](https://zeejb.com/store/)
-- iOS 15 - iOS 18.7.3/iOS 26.2.1 - [Terminal Jailbreak Tool](https://zeejb.com/updates/terminal-jailbreak-tool/)(Jailbreak Repo Extractor)
+- **iOS 12 - iOS 27 Beta 1 Compatibility Tracking**
+- [Jailbreak Tweak Master](https://udidmaster.com/pro/install.php) — iOS 27/iOS 26 to iOS 17.7.2(till iOS 12.5.8)
+
+- iOS 14 - iOS 18.7.9/iOS 27 beta 1(iOS 26.5) - [Jailbreak Tweak Master  ](https://udidmaster.com/pro/install.php)
+  
+- iOS 27 /iOS 26 - iOS 11 Jailbreak AppStore (unc0ver, TrollStore, MisakaX, Redensa, Nipzu, Terminal JB, Livecontainer, Zjailbreak, More..) - [ZEE Jailbreak Store](https://zeejb.com/store/)
+  
+- iOS 15 - iOS 18.7.9/iOS 27 beta 1(including 26.6 beta 1)	 - [Terminal Jailbreak Tool](https://zeejb.com/updates/terminal-jailbreak-tool/)(Jailbreak Repo Extractor)
 - iOS 15 - iOS 17 & Up - [Misaka iOS](https://github.com/iOS17/MisakaX) & tvOS customisation tool for KFD & MDC
 - iOS 14.0 - 16.1.2 (excluding 15.7.2) - [MacDirtyCow](https://github.com/topics/macdirtycow)
 - iOS 14 - iOS 17.0 (Excluding iOS 17.0.1)  - [TrollStore](https://github.com/iOS17/TrollStore) Permanently sign and install any application
@@ -33,12 +36,15 @@ This comprehensive guide is based on our research data about iOS versions. It wi
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## DarkSword Exploit: iOS 17.2 - iOS 26.4
 
-DarkSword is a highly sophisticated iOS full-chain exploit kit discovered in March 2026, targeting iPhones running iOS 18.4 through 18.7. It uses six different vulnerabilities to break out of the Safari sandbox and gain kernel read/write access. Because DarkSword provides kernel-level access, jailbreak community developers gain valuable tools. As a result, the DarkSword kernel exploit is being integrated into tools like the Dopamine jailbreak to support newer iOS versions.  
+DarkSword is a highly sophisticated iOS full-chain exploit kit discovered in March 2026 that targets iPhones running iOS 18.4 through 18.7. It uses six different vulnerabilities to break out of the Safari sandbox and gain kernel read/write access. Because DarkSword provides kernel-level access, jailbreak community developers gain valuable tools. As a result, the DarkSword kernel exploit is being integrated into tools like the Dopamine jailbreak to support newer iOS versions.  
+**
+NOTE: DarkSword is not compatible with the latest iOS 27 beta 1 and iOS 26.6 beta 1, so any website or video claiming otherwise is fake. Beware of those YouTube channels spreading misinformation.**
+
 But unfortunately, the full jailbreak for modern devices still requires a PPL/SPTM bypass, which is not yet publicly available for these specific versions. 
 
 Fortunately, developer @X Little_34306 has found a way to install the Filza file manager on iDevices using this exploit, so if your device is running iOS 17.0-26.0, you can try installing the Filza Jailed app.
 
-Filza Jailed Darksword, support iOS 17.0 - 26.0.1 (except 18.7.2 - 18.7.7). This repo opens up the tweak injection into the Filza iPA (4.0.0 and back, 4.0.2 seems to crash something)
+Filza Jailed Darksword supports iOS 17.0-27 (except 18.7.2-18.7.7). This repo opens up tweak injection into the Filza IPA (4.0.0 and back; 4.0.2 seems to crash something)
 
 ### How to install Filza Jailed:
 
@@ -46,7 +52,7 @@ Filza Jailed Darksword, support iOS 17.0 - 26.0.1 (except 18.7.2 - 18.7.7). This
 - Step 02: [Download Filza IPA file](https://ipa.zeejb.com)
 
 - & [ Copy token shortcut above](https://www.icloud.com/shortcuts/3e90b09cd789488fa4f87a471284f544)
-Step 2: Tap Run Exploit and wait ~60s (web may freeze/crash/reload near the end, that means done)
+Step 2: Tap Run Exploit and wait ~60s (the web may freeze/crash/reload near the end; that means done)
 Step 3: Open the Shortcuts app, run the "Copy token" shortcut
 Step 4: Paste the token in Filza
 
@@ -60,7 +66,7 @@ Coruna Jailbreak is a webkit-based tool that runs directly in iOS Safari. After 
 
 Right now, Coruna works well on iOS 15 through iOS 17.2. You can try installing it here: [https://coruna.app](https://coruna.app)
 
-### What Coruna Can do:
+### What Coruna Can Do:
 
 At the moment, it can inject Cydia Sileo tweaks like Cylinder and customize your home and lock screens without needing a package manager.
 
