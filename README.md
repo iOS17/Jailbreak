@@ -1,12 +1,14 @@
-# iOS 27 Beta 1, iOS 26.5.1, iOS 26.6 beta 1 - iOS 18.7.9 / iOS 17.7.2 Verified Jailbreak Status & Solutions
-> **Current Status:** Research and Exploit Development Phase for iOS 27 Beta. No public jailbreak utility is available for iOS 27 yet. 
+# iOS 27 Beta 4, iOS 26.6 - iOS 18.7.9 / iOS 17.7.2 Verified Jailbreak Status & Solutionsx
+> **Current Status:** Research and Exploit Development Phase for iOS 27 Beta. No public jailbreak utility is available for iOS 27 yet.
+> iOS 17 - iOS 17.3.1 Jailbreak Tool Released: [Download and Install Relaxing Jailbreak ](https://zeejb.com/relaxin-jailbreak/)
+(Relaxin is an open public beta jailbreak tool designed for iOS 17.x devices. It is built upon the foundation of Dopamine 2 but developed by an independent team.)
 
 <meta name="google-site-verification" content="N5fkQW_mArfKg_c68CbB-YfIWX_Fts0dXkJkTQuKUoE" />
 
 
 ![iOS 27 Beta 1 Jailbreak Status, iOS 26.5, iOS 26.4, iOS 18.7, iOS 17.7.14 Online Solutions Guide](https://github.com/user-attachments/assets/942ef641-e611-4c6b-a32b-ad8fe61a20d6)
 
-## iOS 27 Beta 1 / iOS 26.5.1 / iOS 18.7.9 / iOS 17.7.2 Jailbreak Status & Research Data
+## iOS 27 Beta 3 / iOS 26.6 / iOS 18.7.9 / iOS 17.7.2 Jailbreak Status & Research Data
 
 ### Introduction
 Following Apple's WWDC 2026 keynote, the first **iOS 27 Beta 1** developer preview has officially been released. Packed with new "Siri AI" capabilities and Liquid Glass design refinements, iOS 27 is already prompting users to explore the possibilities of customizing and jailbreaking. This comprehensive compatibility guide tracks exploit discoveries, kernel vulnerabilities, and jailbreak solutions across iOS 27 Beta, iOS 17, and iOS 16.
