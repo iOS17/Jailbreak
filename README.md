@@ -20,6 +20,48 @@ Apple has released iOS 27 beta 1, iOS 26.6, iOS 18.7.9, and iOS 16.7.16, now ava
 
 This comprehensive guide is based on our research data about iOS versions. It will drive you into iOS 27 beata 1, iOS 26.5 (26.1, iOS 26.2, 26.3, 26.4), iOS 18.7.9, iOS 17.7.2 (iOS 17, 17.1, 17.2, 17.3, 17.4, 17.5, 17.6 -  iOS 18, iOS 18.1, 18.2, 18.3, 18.4, 18.5, 18.6, 18.7.2) & beta jailbreaks, discussing its advantages, Alternatives, status, preparation, safety measures, differences between tethered and untethered jailbreaks, best practices, prospects, and FAQs.
 
+# iOS 18.x / iOS 17.x Verified Jailbreak Status & Solutions (2026 Update)
+
+> **Current Status:** Official Support up to **iOS 17.3.1** (Dopamine Jailbreak) for modern devices (A12+). **iOS 18.x - iOS 18.7** are currently in Exploit & Research Phase (No public jailbreak available for newer devices yet).
+
+---
+
+## 📱 Jailbreak Status Overview
+
+| iOS Version | Tool / Solution | Status | Supported Devices |
+| :--- | :--- | :--- | :--- |
+| **iOS 15.0 – 17.3.1** | [Dopamine](https://dopa3.me/) | ✅ Supported | A12 – A17 / M1 – M2 |
+| **iOS 15.0 – 17.0** | [TrollStore](https://github.com/opa334/TrollStore) | ✅ Supported | All Devices (Permanent App Signing) |
+| **iOS 15.0 – 18.x** | [palera1n](https://palera.in/) | ✅ Supported | A8 – A11 Devices (iPhone X and older) |
+| **iOS 17.4 – 18.7.x** | Research Phase | ⏳ Work in Progress | Exploit development phase (DarkSword/KFD) |
+
+---
+
+## 🛠️ Main Tools & Compatibility
+
+### 1. Dopamine Jailbreak (iOS 15.0 – 17.3.1)
+* **Type:** Semi-Untethered / Rootless
+* **Supported Devices:** iPhone XS, XR, 11, 12, 13, 14, 15 (A12 - A17 Chipsets)
+* **Official Site:** [https://dopa3.me/](https://dopa3.me/)
+
+### 2. TrollStore (iOS 14.0 – 17.0)
+* Permanently sign and install any `.ipa` file without jailbreaking or revokes.
+* **Official Repository:** [GitHub - TrollStore](https://github.com/opa334/TrollStore)
+
+### 3. MisakaX / KFD Tools (iOS 17.0 – 17.5.1 / 18.0)
+* Customization and system tweak tool utilizing MDC and KFD exploits.
+* **Official Repository:** [GitHub - Misaka](https://github.com/straight-tamago/misaka)
+
+---
+
+## ⚠️ Safety & Scam Warning
+
+* **Do not download unverified profile installers** or pay for jailbreak tools. Official iOS jailbreak tools are **100% Free** and **Open-Source**.
+* Avoid scam websites offering fake "web-based online jailbreaks" for unreleased versions. Always stick to official GitHub releases.
+
+---
+*Last Updated: August 2026*
+
 ## Community-Created Solutions & Customization Tools:
 
 - **iOS 12 - iOS 27 Beta 1 Compatibility Tracking**
