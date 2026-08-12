@@ -25,42 +25,55 @@ This comprehensive guide is based on our research data about iOS versions. It wi
 > **Current Status:** Official Support up to **iOS 17.3.1** (Dopamine Jailbreak) for modern devices (A12+). **iOS 18.x - iOS 18.7** are currently in Exploit & Research Phase (No public jailbreak available for newer devices yet).
 
 ---
+# iOS 27 / iOS 26 & iOS 18.x Verified Jailbreak Status (2026 Community Update)
 
-## 📱 Jailbreak Status Overview
+> **Latest Community Update:** [Dopamine 3.0](https://dopa3.me/) expands support for A12/A13 devices on **iOS 26.0 - 26.0.1**, with general jailbreak support covering **iOS 15.0 – 17.3.1** (All devices) and up to **iOS 18.7.1**.
 
-| iOS Version | Tool / Solution | Status | Supported Devices |
+---
+
+## 📱 Updated Jailbreak Compatibility Table
+
+| iOS / iPadOS Version | Recommended Tool / Solution | Status | Supported Devices / Notes |
 | :--- | :--- | :--- | :--- |
-| **iOS 15.0 – 17.3.1** | [Dopamine](https://dopa3.me/) | ✅ Supported | A12 – A17 / M1 – M2 |
-| **iOS 15.0 – 17.0** | [TrollStore](https://github.com/opa334/TrollStore) | ✅ Supported | All Devices (Permanent App Signing) |
-| **iOS 15.0 – 18.x** | [palera1n](https://palera.in/) | ✅ Supported | A8 – A11 Devices (iPhone X and older) |
-| **iOS 17.4 – 18.7.x** | Research Phase | ⏳ Work in Progress | Exploit development phase (DarkSword/KFD) |
+| **iOS 15.0 – 17.3.1** | [Dopamine 3.0](https://dopa3.me/) | ✅ Supported | All A12 – A17 / M1 – M2 Devices |
+| **iOS 15.0 – 18.7.1 / 26.0 - 26.0.1** | [Dopamine 3.0](https://dopa3.me/) | ✅ Partial | A12/A13 Chipsets (iPhone XR, XS, 11) |
+| **iOS 15.0 – 17.0** | [TrollStore](https://github.com/opa334/TrollStore) | ✅ Supported | Permanent App Signing (All Devices) |
+| **iOS 15.0 – 18.x** | [palera1n](https://palera.in/) | ✅ Supported | A8 – A11 Devices (iPhone X & older) |
+| **iOS 18.4 – 18.7 / 26.4** | **DarkSword Exploit** | 🧪 Research Phase | Kernel LPE exploit kit (Jailed/Filza Injection) |
+| **iOS 27.0 (Testing)** | **usbliter8-fun** | ⚠️ Semi-Tethered | BootROM hardware exploit (Requires USB controller/Pi) |
 
 ---
 
-## 🛠️ Main Tools & Compatibility
+## 🔬 Key Exploit Developments (2026)
 
-### 1. Dopamine Jailbreak (iOS 15.0 – 17.3.1)
-* **Type:** Semi-Untethered / Rootless
-* **Supported Devices:** iPhone XS, XR, 11, 12, 13, 14, 15 (A12 - A17 Chipsets)
-* **Official Site:** [https://dopa3.me/](https://dopa3.me/)
+### 1. Dopamine 3.0 Progress
+* Now extended to support select devices running **iOS 18.7.1** and **iOS 26.0 - 26.0.1**.
+* Remains a rootless semi-untethered jailbreak with full tweak injection support.
 
-### 2. TrollStore (iOS 14.0 – 17.0)
-* Permanently sign and install any `.ipa` file without jailbreaking or revokes.
-* **Official Repository:** [GitHub - TrollStore](https://github.com/opa334/TrollStore)
+### 2. DarkSword Kernel Exploit Kit
+* Targets WebKit & Kernel vulnerabilities on **iOS 18.4 – 18.7**.
+* Allows sandbox escape and kernel memory access. Integrated into tools like Filza Jailed, but requires full PPL/SPTM bypass for complete jailbreaking on newer devices.
 
-### 3. MisakaX / KFD Tools (iOS 17.0 – 17.5.1 / 18.0)
-* Customization and system tweak tool utilizing MDC and KFD exploits.
-* **Official Repository:** [GitHub - Misaka](https://github.com/straight-tamago/misaka)
+### 3. usbliter8-fun BootROM Exploit
+* Hardware-based semi-tethered exploit using checkm8-style concepts on older chipsets.
+* Requires re-jailbreaking via external hardware (e.g., Raspberry Pi) upon reboot.
+
+---
+
+## 🛠️ Trending Tools & Utilities
+
+* **[Juice (Wine for iOS)](https://github.com/) [BETA]:** An emerging tool allowing Windows applications and compatibility layers to run natively on jailbroken/customized iOS environments.
+* **[MisakaX / MDC / KFD](https://github.com/straight-tamago/misaka):** System customization tool without full jailbreak requirement.
 
 ---
 
-## ⚠️ Safety & Scam Warning
+## ⚠️ SEO & Security Notice
 
-* **Do not download unverified profile installers** or pay for jailbreak tools. Official iOS jailbreak tools are **100% Free** and **Open-Source**.
-* Avoid scam websites offering fake "web-based online jailbreaks" for unreleased versions. Always stick to official GitHub releases.
+* All legitimate iOS jailbreak utilities are **100% Free & Open-Source**. 
+* Do not pay for "online profiles", web installers, or unverified signing certificates claiming untethered jailbreaks for iOS 27.
 
 ---
-*Last Updated: August 2026*
+*Updated: August 2026 via Reddit & Jailbreak Dev Community Insights*
 
 ## Community-Created Solutions & Customization Tools:
 
@@ -141,7 +154,7 @@ You can stay updated with the latest Jailbreak updates by following us on Twitte
 - [Copy iPhone Images and Manage iPhone/iPad Device on a MAC, The 3uTools for Mac iOS 26.3](https://github.com/iOS17/i4Tools)
 -------------------------------------------------------------------------------------------------------------------------------------
 
-Updated 2026 JAN
+Updated 2026 AUG
 
 ## iOS 26 - iOS 26.3 Beta Jailbreak Status:
 
