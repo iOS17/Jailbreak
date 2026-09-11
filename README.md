@@ -1,4 +1,5 @@
-# iOS 27 Beta 4, iOS 26.6 - iOS 18.7.9 / iOS 17.7.2 Verified Jailbreak Status & Solutionsx
+# iOS 27 RC, iOS 26.62 - iOS 18.7.10 / iOS 17.7.2 Verified Jailbreak Status & Solutions
+
 > **Current Status:** Research and Exploit Development Phase for iOS 27 Beta. No public jailbreak utility is available for iOS 27 yet.
 > iOS 17 - iOS 17.3.1 Jailbreak Tool Released: [Download and Install Relaxing Jailbreak ](https://zeejb.com/relaxin-jailbreak/)
 (Relaxin is an open public beta jailbreak tool designed for iOS 17.x devices. It is built upon the foundation of Dopamine 2 but developed by an independent team.)
@@ -12,6 +13,24 @@
 
 ### Introduction
 Following Apple's WWDC 2026 keynote, the first **iOS 27 Beta 1** developer preview has officially been released. Packed with new "Siri AI" capabilities and Liquid Glass design refinements, iOS 27 is already prompting users to explore the possibilities of customizing and jailbreaking. This comprehensive compatibility guide tracks exploit discoveries, kernel vulnerabilities, and jailbreak solutions across iOS 27 Beta, iOS 17, and iOS 16.
+
+#############################
+
+
+################# Special  OFFER #################
+>**Udidmaster's team offers you Apple P12 Developer and Distribution Certificates at a low price. ** You can use these certificate files to sign and install IPA files, and also those that support the Esign / Ksign iOS app, Gbox, Feather iOS, APPDB, Cripzi Signer, Sideloadly, AltSote, Kawa Signer, and LightningSign, like IPA signing tools.**
+
+![Free Download Gbox Esign Certificates P12 for iOS 27, 26.6.2, 18.7.2 - iOSA 17.7.2, iOS 26 Sideloadling AppStore Alternative](https://github.com/iOS17/Jailbreak/assets/135683347/01246746-cc1c-4850-b040-ea071394760a)
+
+** [Download Free .p12 VIP Certificates Now](https://zeejb.com/esign) **
+** [Download Free .p12 Certificates Now](https://esigncert.zeejb.com/) **
+
+With the Premium AppleP12 Certificates, you can sign unlimited Tweaked IPA files, like Jodel++, Spotify++, Twitter++, YouTube Mod, Games Mods, Jailbreaks, and much more.
+Learn More: - [Esign iOS app complete review (How to install Esign)](https://zeejb.com/esign-app/)
+
+If your device is running an older iOS version, such as iOS 17 or iOS 18. Do you need to upgrade the[ iOS 26.6.2 beta- UIDimaster Certificate to join their developer team.](https://udidmaster.com/)
+
+#######################################################################################################
 
 
 ## iOS 27 beta 1 / 26.6 beta 1 - iOS 18.7.9 - 17.7.2(16.7.16) Jailbreak Guide Introduction:
